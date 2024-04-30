@@ -1,0 +1,95 @@
+.a {
+
+}
+
+.landing-page {
+    background-image: url("/public/images/background_image.jpg"); /* Add your image path here */
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .overlay {
+  /*  background-color: rgba(255, 215, 0, 0.7); /* This creates a yellow overlay */
+    width: 100%;
+    height: 100%;
+  }
+  #addRestaurantBTN:hover {
+    background-color: #212529;
+  }
+  #addRestaurantBTN {
+    color: white;
+    background-color: #212529;
+  }
+  .navbar {
+    padding-top: 20px;
+  }
+  .logo {
+    height: 50px; /* Set the height of your logo */
+    margin-right: 10px; /* Add some space between logo and text */
+  }
+  
+  .logo-container {
+    display: flex;
+    align-items: center;
+  }
+  
+  .logo-text {
+    display: flex;
+    flex-direction: column; /* Stack the spans on top of each other */
+    margin-left: 5px; /* Adjust spacing as necessary */
+    width: 150px;
+    text-align: left;
+    font-weight: 700;
+  }
+  
+
+  .hero-section {
+    position: relative;
+    top: 23%;
+    transform: translateY(-50%);
+    color: #000000;
+  }
+  .hero-section h1 {
+    font-size: 64px;
+  }
+  .hero-section p {
+    font-size: 20px;
+    padding: 7px;
+  }
+  #explore-button{
+    padding: 12px 64px;
+  }
+  /* Add more styles as needed */
+  /* You might also want to add media queries to adjust text size on smaller screens */
+
+  #navbar {
+    background-color: #fbb304;
+  }
+@media (max-width: 768px) {
+  .main-heading {
+    font-size: 32px; /* Smaller font size for mobile */
+  }
+  
+  .sub-heading {
+    font-size: 18px; /* Smaller font size for mobile */
+  }
+  
+  .explore-button {
+    font-size: 16px; /* Smaller font size for mobile */
+    padding: 8px 16px; /* Smaller padding for mobile */
+  }
+}
+
+.space{
+  padding: 3%;
+  background-color: rgb(249 180 0 / 0%);
+}
+
+@media (max-width: 550px) {
+  .space {
+      padding: 10%; /* Adjust the padding as needed */
+      background-color: rgba(17, 17, 16, 0);
+
+  }
+}

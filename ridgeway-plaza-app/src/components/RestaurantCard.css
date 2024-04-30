@@ -1,0 +1,93 @@
+/* RestaurantCard.css */
+.restaurant-card {
+    position: relative;
+    /* width: 18rem; */
+    margin-bottom: 1rem;
+    
+  }
+  
+  .restaurant-card .card-img-top {
+    height: 200px;
+    object-fit: cover;
+  }
+  
+  .restaurant-card .category-badge {
+    position: absolute;
+    top: 0.5rem; /* Adjust top and right as per your design needs */
+    right: 0.5rem;
+    border-radius: 5px;
+    background-color: #fbb304 !important;;
+    color: black;
+    padding: 0.6rem;
+    font-weight: lighter;
+  }
+  
+  .restaurant-card .btn-website {
+    background-color: #000; /* Set the button color you want */
+    border: none;
+    margin-top: 1rem;
+  }
+  
+  .restaurant-card .card-body {
+    padding: 1rem;
+  }
+  
+  .restaurant-card .card-title {
+    margin-bottom: 0.5rem;
+  }
+  
+  .restaurant-card .card-text {
+    color: #333;
+    font-size: 0.9rem;
+  }
+
+  .content-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0 15px; /* Padding to make sure content doesn't touch the edges */
+  }
+  .search-container {
+    width: 100%;
+    max-width: 1200px; /* Adjust this to match the max-width of your cards */
+    margin: 0 auto; /* This centers the search container */
+    padding: 20px 0;
+  }
+  
+  .search-input {
+    width: calc(100% - 30px); /* 15px padding on each side */
+    padding: 10px 15px;
+    margin-bottom: 20px;
+    box-sizing: border-box;
+    border: 1px solid #ddd;
+    border-radius: 20px;
+    font-size: 18px;
+    outline: none;
+  }
+
+.search-input::placeholder {
+  color: #888; /* Placeholder text color */
+}
+
+.filter-container button {
+    padding: 10px;
+    margin: 0 5px;
+    border: none;
+    background-color: #fbb304;
+    color: white;
+    border-radius: 5px;
+  }
+  
+  .filter-container button.active {
+    background-color: #dca104;
+  }
+  
+  .restaurant-grid {
+  width: 100%;
+  max-width: 1200px; /* This should match the max-width of the search container */
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); /* example for a responsive grid */
+  gap: 20px; /* Adjust the space between cards */
+  margin: 0 auto; /* Centers the grid in the middle of the page */
+}
+  
