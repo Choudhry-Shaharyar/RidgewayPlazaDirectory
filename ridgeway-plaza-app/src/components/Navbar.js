@@ -19,7 +19,7 @@ function NavigationBar() {
 
       <div className="navbar-nav ml-auto">
         <a className="nav-item nav-link" href="#restaurants">Restaurants</a>
-        <Button variant="warning" id="addRestaurantBTN">Add a Restaurant</Button>
+        <Button href="#footer" variant="warning" id="addRestaurantBTN">Add a Restaurant</Button>
       </div>
     </div>
   </nav>

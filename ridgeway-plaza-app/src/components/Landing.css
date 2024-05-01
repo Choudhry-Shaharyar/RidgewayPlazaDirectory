@@ -64,7 +64,7 @@
   /* You might also want to add media queries to adjust text size on smaller screens */
 
   #navbar {
-    background-color: #fbb304;
+    background-color: #fcb600 !important;
   }
 @media (max-width: 768px) {
   .main-heading {
@@ -90,6 +90,11 @@
   .space {
       padding: 10%; /* Adjust the padding as needed */
       background-color: rgba(17, 17, 16, 0);
-
   }
+
+  .hero-section h1{
+    font-size: 48px;
+  }
+
+
 }

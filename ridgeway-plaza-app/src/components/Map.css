@@ -1,0 +1,22 @@
+.map-container {
+}
+
+.map-container h2 {
+    margin: 50px;
+}
+
+.mapIframe {
+    margin-bottom: 80px;
+}
+
+@media (max-width: 600px) {
+.mapIframe {
+    width: 400px;
+}
+}
+
+@media (max-width: 400px) {
+    .mapIframe {
+        width: 350px;
+    }
+    }
