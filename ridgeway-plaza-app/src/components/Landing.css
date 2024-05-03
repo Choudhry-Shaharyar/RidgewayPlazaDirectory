@@ -92,9 +92,18 @@
       background-color: rgba(17, 17, 16, 0);
   }
 
+ 
+  #addRestaurantBTN {
+    font-size: smaller;
+    padding: 7px;
+
+  }
   .hero-section h1{
     font-size: 48px;
   }
 
-
+  .logo-container {
+    font-size: smaller;
+    width: 180px;
+  }
 }

@@ -17,6 +17,8 @@ const InteractiveMap = () => {
         height="400px"
         width="600px"
         allowFullScreen
+        metaname="description" content="Explore Ridgeway Plaza with our interactive map! Navigate through our diverse range of shops, restaurants, and services. Find your way around easily and discover everything Ridgeway Plaza has to offer."
+
       ></iframe>
     </div>
   );
