@@ -12,6 +12,9 @@
   .restaurant-card .card-img-top {
     height: 200px;
     object-fit: cover;
+    user-select: none; /* Prevent selection */
+    -webkit-user-drag: none; /* WebKit-specific, prevents dragging */
+    pointer-events: none; /* Prevents clicking and dragging */
   }
   
   .restaurant-card .category-badge {

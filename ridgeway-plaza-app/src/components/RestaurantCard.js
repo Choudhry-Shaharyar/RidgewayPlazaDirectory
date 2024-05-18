@@ -11,7 +11,7 @@ function RestaurantCard({ name, address, image, phone, website, category }) {
         <Card.Title className='name'>{name}</Card.Title>
         <Card.Text className='address'>{address}</Card.Text>
         <Card.Text>{phone}</Card.Text>
-        <Button variant="dark" href={website} className="btn-website">Go to Website</Button>
+        <Button variant="dark" href={website} target="_blank" className="btn-website">Go to Website</Button>
       </Card.Body>
     </Card>
   );
