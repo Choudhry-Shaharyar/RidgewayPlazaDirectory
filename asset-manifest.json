@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/RidgewayPlazaDirectory/static/css/main.73095559.css",
-    "main.js": "/RidgewayPlazaDirectory/static/js/main.ba585bc7.js",
+    "main.js": "/RidgewayPlazaDirectory/static/js/main.f81300b6.js",
     "static/js/453.9272a3b3.chunk.js": "/RidgewayPlazaDirectory/static/js/453.9272a3b3.chunk.js",
     "static/media/background_image.jpg": "/RidgewayPlazaDirectory/static/media/background_image.a4d0349e9e292fcaabc8.jpg",
     "index.html": "/RidgewayPlazaDirectory/index.html",
     "main.73095559.css.map": "/RidgewayPlazaDirectory/static/css/main.73095559.css.map",
-    "main.ba585bc7.js.map": "/RidgewayPlazaDirectory/static/js/main.ba585bc7.js.map",
+    "main.f81300b6.js.map": "/RidgewayPlazaDirectory/static/js/main.f81300b6.js.map",
     "453.9272a3b3.chunk.js.map": "/RidgewayPlazaDirectory/static/js/453.9272a3b3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.73095559.css",
-    "static/js/main.ba585bc7.js"
+    "static/js/main.f81300b6.js"
   ]
 }
