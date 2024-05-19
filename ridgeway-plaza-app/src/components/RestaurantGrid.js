@@ -115,7 +115,7 @@ function RestaurantGrid() {
       id: 9,
       name: "Mount Sinai",
       address: "33700 Eglinton Ave W #61",
-      image: "images/MountSinai.jpg", // Replace with actual path to image
+      image: "images/mountSinai.jpg", // Replace with actual path to image
       phone: "(905) 569-2600",
       website: "https://www.mountsinaimx.com/",
       category: "Mexican"
@@ -188,7 +188,7 @@ function RestaurantGrid() {
       id: 17,
       name: "Karioka Quicky",
       address: " 3920 Eglinton Ave W #27",
-      image: "images/karioka.jpg", // Replace with actual path to image
+      image: "images/Karioka.jpg", // Replace with actual path to image
       phone: " (905) 607-0600",
       website: "https://kariokaquickyerinmills.com/",
       category: "Middle Eastern"
@@ -233,7 +233,7 @@ function RestaurantGrid() {
       id: 22,
       name: "Church's Texas Chicken",
       address: "4700 Ridgeway Dr #66",
-      image: "images/Churchs.jpg", // Replace with actual path to image
+      image: "images/churchs.jpg", // Replace with actual path to image
       phone: "(905) 828-8100",
       website: "https://ontario.churchstexaschicken.com/",
       category: "American"
@@ -242,7 +242,7 @@ function RestaurantGrid() {
       id: 23,
       name: "3 Food Street",
       address: "4700 Ridgeway Dr #71",
-      image: "images/3Food.jpg", // Replace with actual path to image
+      image: "images/3food.jpg", // Replace with actual path to image
       phone: "(905) 607-1333",
       website: "http://3foodstreet.com/",
       category: "Desi"
@@ -297,7 +297,7 @@ function RestaurantGrid() {
       id: 29,
       name: "Brar's",
       address: "3910 Eglinton Ave W #37, 38",
-      image: "images/Brar.jpg", // Replace with actual path to image
+      image: "images/brar.jpg", // Replace with actual path to image
       phone: "(226) 781-2727",
       website: "http://brars.ca/",
       category: "Desi"
@@ -306,7 +306,7 @@ function RestaurantGrid() {
       id: 30,
       name: "Döner & Gyros",
       address: "3910 Eglinton Ave W #40",
-      image: "images/Doner.jpg", // Replace with actual path to image
+      image: "images/doner.jpg", // Replace with actual path to image
       phone: "(905) 607-1900",
       website: "https://donerandgyros.ca/",
       category: "Middle Eastern"
