@@ -94,7 +94,7 @@
   width: 200px; /* Adjust based on your design needs */
 }
 
-.filter-container h1 { 
+.filter-container .choose { 
   font-size: 12px;
   color: hwb(0 50% 50%);
   margin-right: 20px;

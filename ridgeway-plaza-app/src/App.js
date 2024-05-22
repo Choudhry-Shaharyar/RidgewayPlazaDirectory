@@ -5,7 +5,10 @@ import RestaurantGrid from './components/RestaurantGrid';
 import './App.css';
 import InteractiveMap from './components/InteractiveMap';
 import Footer from './components/Footer';
+import ReactGA from 'react-ga4';
 function App() {
+
+  ReactGA.initialize("G-H3Y2F3F5SC");
   return (
     <div className="App">
 

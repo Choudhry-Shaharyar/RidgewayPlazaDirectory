@@ -734,6 +734,8 @@ function RestaurantGrid() {
 
   return (
     <div className="content-container">
+      <h1 metaname="description" content="Explore Ridgeway Plaza with our interactive map! Navigate through our diverse range of shops, restaurants, and services. Find your way around easily and discover everything Ridgeway Plaza has to offer."
+></h1>
       <div className="search-container" id='restaurants'>
         <div className='msg'>Find Restaurants & Order Now!</div>
         <input
@@ -746,7 +748,7 @@ function RestaurantGrid() {
       </div>
       <div ref={restaurantGridRef} className='grid-and-filter-container' metaname="description" content="Discover the vibrant dining and shopping scene at Ridgeway Plaza in Mississauga! Browse our comprehensive list of restaurants and stores, offering a diverse range of culinary delights and retail experiences. From cozy cafes to trendy boutiques, Ridgeway Plaza has something for everyone. Explore our directory and plan your next visit today!">
         <div className="filter-container">
-          <h1>CHOOSE CATEGORY</h1>
+          <div className='choose'>CHOOSE CATEGORY</div>
           <select
             value={selectedCuisine}
             onChange={handleCuisineChange}
