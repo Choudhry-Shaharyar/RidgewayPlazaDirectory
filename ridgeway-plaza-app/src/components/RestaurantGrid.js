@@ -735,7 +735,7 @@ function RestaurantGrid() {
   return (
     <div className="content-container">
       <h1 metaname="description" content="Explore Ridgeway Plaza with our interactive map! Navigate through our diverse range of shops, restaurants, and services. Find your way around easily and discover everything Ridgeway Plaza has to offer."
-></h1>
+>     </h1>
      <meta content='List of all the restaurants at Ridgeway Plaza. Ridgeway Plaza Directory has over 70 unqiue restaurants'></meta>
       <div className="search-container" id='restaurants'>
         <div className='msg'>Find Restaurants & Order Now!</div>
