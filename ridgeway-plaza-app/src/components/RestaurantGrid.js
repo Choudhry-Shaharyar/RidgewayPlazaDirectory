@@ -688,6 +688,16 @@ function RestaurantGrid() {
       website: "https://www.instagram.com/mrloop.ca?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
       category: "Dessert"
     },
+    {
+      id: 72,
+      name: "Karahi Master",
+      address: "3525 Platinum Dr #105",
+      image: "images/karahimaster.jpeg", // Replace with actual path to image
+      website: "https://karahimaster.ca/",
+      phone: "(905) 607-2555",
+      category: "Desi"
+    }
+
 
     // ... Add more restaurants as needed
   ];
