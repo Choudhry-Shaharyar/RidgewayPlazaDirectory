@@ -696,7 +696,34 @@ function RestaurantGrid() {
       website: "https://karahimaster.ca/",
       phone: "(905) 607-2555",
       category: "Desi"
-    }
+    },
+    {
+      id: 73,
+      name: "Go Dough",
+      address: "3480 Platinum Dr #107",
+      image: "images/godough.jpg", // Replace with actual path to image
+      website: "https://www.ubereats.com/ca/store/go-dough/mhN9Y3XDVwGpJzyAmjCPtA",
+      phone: "(905) 569-0444",
+      category: "Middle Eastern"
+    },
+    {
+      id: 74,
+      name: "Indulge Lounge & Cafe",
+      address: "3535 Odyssey Dr #87",
+      image: "images/indulge.jpg", // Replace with actual path to image
+      website: "https://www.indulgelounge.ca/",
+      phone: "(905) 569-6005",
+      category: "Cafe"
+    },
+    {
+      id: 75,
+      name: "Chachu's",
+      address: "3505 Odyssey Dr #69",
+      image: "images/chachus.jpg", // Replace with actual path to image
+      website: "https://www.fedbychachus.com/?location=11ef0ee4c846f848ae54ac1f6bbbd01e#most-popular",
+      phone: "(905) 569-0600",
+      category: "Desi"
+    },
 
 
     // ... Add more restaurants as needed
