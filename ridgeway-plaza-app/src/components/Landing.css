@@ -1,9 +1,5 @@
-.a {
-
-}
-
 .landing-page {
-    background-image: url("/public/images/background_image.jpg"); /* Add your image path here */
+    background-image: url("/public/images/background_image.webp"); /* Add your image path here */
     height: 100vh;
     background-size: cover;
     background-position: center;
