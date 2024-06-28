@@ -14,8 +14,10 @@ function Landing() {
         </div>
 
         <div className="hero-section text-center">
-          <h1 metaname="Title" content="Restaurants at Erin Mills Centre also known as Ridgeway Plaza in Mississauga "
->Ridgeway Plaza</h1>
+        <h1 metaname="Title" content="Restaurants at Erin Mills Centre also known as Ridgeway Plaza in Mississauga ">Ridgeway Plaza</h1>
+        <meta content='Ridgeway Plaza'></meta>
+        <meta name="keywords" content="Ridgeway Plaza, Ridgeway Plaza stores, Ridgeway Plaza" />
+
 {/* Explore from over 10 different cusisnes and 70+ restaruatns */}
           <p content='Erin Mills Centre'>Explore Erin Mills Centre, spanning Ridgway Rd, Eglinton Ave and Odyssey Dr</p>
           <Button href="#restaurants" variant="dark" id="explore-button" size="lg">Explore Restaurants</Button>

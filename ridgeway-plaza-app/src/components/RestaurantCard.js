@@ -5,7 +5,7 @@ import './RestaurantCard.css'; // Assuming your CSS file is named RestaurantCard
 function RestaurantCard({ name, address, image, phone, website, category }) {
   return (
     <Card className="restaurant-card">
-      <Card.Img variant="top" src={image} />
+      <Card.Img variant="top" src={image} alt="ridgeway plaza restaurant"/>
       {category && <Badge variant="warning" className="category-badge">{category}</Badge>}
       <Card.Body>
         <Card.Title className='name'>{name}</Card.Title>

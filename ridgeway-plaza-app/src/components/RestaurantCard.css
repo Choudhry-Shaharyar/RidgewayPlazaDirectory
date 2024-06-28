@@ -4,7 +4,7 @@
     /* width: 18rem; */
     width: 250px; /*remove this if you want cards that change width dynamically */
     margin-bottom: 1rem;
-  
+    background-color: #f7f9fb;
     transition: box-shadow 0.7s ease; /* Adding transition */
 
   }
@@ -187,10 +187,6 @@
  }
 
 
-
-}
-
-.cards-list-container {
 
 }
 

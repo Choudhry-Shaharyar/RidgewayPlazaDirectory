@@ -4,7 +4,7 @@ import './Map.css';
 const InteractiveMap = () => {
   return (
     <div className="map-container">
-      <h2>Interactive Map</h2>
+      <h2>Ridgeway Plaza</h2>
       <iframe
         className='mapIframe'
         src="https://maker.mappedin.com/map/6570dfeafd001d626819c691"
@@ -14,6 +14,7 @@ const InteractiveMap = () => {
         frameBorder="1"
         marginHeight="0"
         marginWidth="0"
+        title="Interactive map of Ridgeway Plaza"
         height="400px"
         width="600px"
         allowFullScreen
