@@ -15,7 +15,7 @@
       "image": "images/celio.jpg",
       "phone": "(416) 666-6744",
       "website": "https://www.celiolounge.ca/",
-      "category": "American"
+      "category": "Lounge"
     },
     {
       "id": 3,
@@ -643,6 +643,7 @@
       "name": "Mr. Loop",
       "address": "4700 Ridgeway Dr #70",
       "image": "images/loop.jpg",
+      "phone": "(905) 608-0003",
       "website": "https://www.instagram.com/mrloop.ca?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
       "category": "Dessert"
     },
@@ -681,6 +682,43 @@
       "website": "https://www.fedbychachus.com/?location=11ef0ee4c846f848ae54ac1f6bbbd01e#most-popular",
       "phone": "(905) 569-0600",
       "category": "Desi"
+    },
+    {
+      "id": 77,
+      "name": "Fusion Flo",
+      "address": "3525 Platinum Dr #106",
+      "image": "images/Fusion.jpg",
+      "website": "https://fusionflo.ca/",
+      "phone": "(416) 918-1702",
+      "category": "Lounge"
+    },
+    {
+      "id": 78,
+      "name": "Shawerma Plus",
+      "address": "4700 Ridgeway Dr #67",
+      "image": "images/ShawermaPlus.jpg",
+      "website": "https://shawermaplus.com/",
+      "phone": "(905) 608-8600",
+      "category": "Middle Eastern"
+    },
+    {
+      "id": 77,
+      "name": "Helvaci Ali",
+      "address": "3535 Odyssey Dr #89",
+      "image": "images/Helvaci.jpg",
+      "website": "https://www.instagram.com/helvaciali.ontario?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+      "phone": "(905) 607-1631",
+      "category": "Dessert"
+    }
+    ,
+    {
+      "id": 78,
+      "name": "Antiochia Turkish Doner",
+      "address": "3460 Platinum Dr #25",
+      "image": "images/Antiochia.jpg",
+      "website": "https://www.instagram.com/antiochiadoner.ca/",
+      "phone": "(905) 569-2727",
+      "category": "Middle Eastern"
     }
   ]
   
