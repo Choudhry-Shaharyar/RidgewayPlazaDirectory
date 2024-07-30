@@ -36,7 +36,7 @@ function RestaurantGrid() {
   //   restaurant.name.toLowerCase().includes(searchTerm.toLowerCase())
   // );
   // TO-DO: AzBerry
-  const cuisines = ['All Categories', 'Afghan', 'African', 'American', 'Cafe', 'Chinese', 'Desi', 'Dessert', 'Mexican', 'Middle Eastern', 'Peruvian'];
+  const cuisines = ['All Categories', 'Afghan', 'African', 'American', 'Cafe', 'Chinese', 'Desi', 'Dessert','Lounge', 'Mexican', 'Middle Eastern', 'Peruvian'];
 
 
   // Filter restaurants based on search term and selected cuisine for the current page
