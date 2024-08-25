@@ -702,7 +702,7 @@
       "category": "Middle Eastern"
     },
     {
-      "id": 77,
+      "id": 79,
       "name": "Helvaci Ali",
       "address": "3535 Odyssey Dr #89",
       "image": "images/Helvaci.jpg",
@@ -712,12 +712,30 @@
     }
     ,
     {
-      "id": 78,
+      "id": 80,
       "name": "Antiochia Turkish Doner",
       "address": "3460 Platinum Dr #25",
       "image": "images/Antiochia.jpg",
       "website": "https://www.instagram.com/antiochiadoner.ca/",
       "phone": "(905) 569-2727",
+      "category": "Middle Eastern"
+    },
+    {
+      "id": 81,
+      "name": "Soul 5",
+      "address": "3920 Eglinton Ave W #29",
+      "image": "images/soul5.jpg",
+      "website": "https://soul5.ca/",
+      "phone": "(905) 608-0852",
+      "category": "American"
+    },
+    {
+      "id": 82,
+      "name": "Zain Alsham",
+      "address": "3460 Platinum Dr #21",
+      "image": "images/zain.jpg",
+      "website": "https://zainalsham.com/menu/",
+      "phone": "(647) 472-7911",
       "category": "Middle Eastern"
     }
   ]
