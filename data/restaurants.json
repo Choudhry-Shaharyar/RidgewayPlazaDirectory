@@ -737,6 +737,15 @@
       "website": "https://zainalsham.com/menu/",
       "phone": "(647) 472-7911",
       "category": "Middle Eastern"
+    },
+    {
+      "id": 83,
+      "name": "Chachee's Chai Cafe",
+      "address": "3450 Platinum Dr #13",
+      "image": "images/chachee.jpg",
+      "website": "https://www.instagram.com/chacheeschai/?hl=en",
+      "phone": "(905) 607-0064",
+      "category": "Desi"
     }
   ]
   
