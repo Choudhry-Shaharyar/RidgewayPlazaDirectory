@@ -216,7 +216,7 @@
   }
 
   .restaurant-card {
-    padding: 8px; /* Minimal padding */
+    /* padding: 8px; Minimal padding */
     font-size: 85%; /* Even smaller text */
     transition: box-shadow 0.3s ease; /* Adding transition */
 

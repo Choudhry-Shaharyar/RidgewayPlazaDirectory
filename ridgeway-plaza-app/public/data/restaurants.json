@@ -746,6 +746,43 @@
       "website": "https://www.instagram.com/chacheeschai/?hl=en",
       "phone": "(905) 607-0064",
       "category": "Desi"
+    },
+    {
+      "id": 84,
+      "name": "Lahore Chatkhara",
+      "address": "3920 Eglinton Ave #33",
+      "image": "images/chatkhara.png",
+      "website": "https://lahorechatkhara.ca/",
+      "phone": "(905) 608-8806",
+      "category": "Desi"
+    },
+    {
+      "id": 85,
+      "name": "Shako Mako",
+      "address": "3515 Odyssey Dr #56",
+      "image": "images/shako.webp",
+      "website": "https://shakomako.ca/",
+      "phone": "(905) 569-1115",
+      "category": "Middle Eastern"
+    },
+    {
+      "id": 86,
+      "name": "Afghan Palace",
+      "address": "3505 Odyssey Dr #65",
+      "image": "images/afghanpalace.jpeg",
+      "website": "http://afghanpalace.ca/",
+      "phone": "(905) 569-3006",
+      "category": "Afghan"
+    },
+    {
+      "id": 87,
+      "name": "AzBerry",
+      "address": "3450 Platinum Dr #6",
+      "image": "images/azberry.jpg",
+      "website": "https://instagram.com/azberry.canada?igshid=NTc4MTIwNjQ2YQ==",
+      "phone": "(905) 606-2100",
+      "category": "Cafe"
     }
+  
   ]
   
