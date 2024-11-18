@@ -18,8 +18,10 @@ function NavigationBar() {
     
 
       <div className="navbar-nav ml-auto">
-        <Button href="#footer" variant="warning" id="addRestaurantBTN">Add a Restaurant</Button>
+        <Button href="https://ridgewayplazaeats.substack.com/subscribe?next=https%3A%2F%2Fsubstack.com%2F%40ridgewayplazaeats&utm_source=profile-page&utm_medium=web&utm_campaign=substack_profile&just_signed_up=true" variant="warning" target='blank' id="addRestaurantBTN">Join Newsletter</Button>
       </div>
+
+      
     </div>
   </nav>
   );
