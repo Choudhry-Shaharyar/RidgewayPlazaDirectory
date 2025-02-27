@@ -5,26 +5,26 @@
       "address": "3920 Eglinton Ave W #25",
       "image": "images/sumac.webp",
       "phone": "(905) 569-1888",
-      "website": "https://www.ubereats.com/ca/store/sumaq-iraqi-charcoal-grill-mississauga/fYOE0JyKVqe_Di52tzpy8Q",
+      "website": "https://sumaq.bycalibre.ca/location",
       "category": "Middle Eastern"
     },
     {
       "id": 2,
-      "name": "Celio Lounge",
-      "address": "3505 Odyssey Dr #74",
-      "image": "images/celio.jpg",
-      "phone": "(416) 666-6744",
-      "website": "https://www.celiolounge.ca/",
-      "category": "Lounge"
+      "name": "Mr. Loop",
+      "address": "4700 Ridgeway Dr #70",
+      "image": "images/loop.jpg",
+      "phone": "(905) 608-0003",
+      "website": "https://mrloop.ca/",
+      "category": "Dessert"
     },
     {
       "id": 3,
-      "name": "Ginsoy",
-      "address": "3505 Odyssey Dr #75",
-      "image": "images/ginsoy2.jpg",
-      "phone": "+1-866-616-3151",
-      "website": "https://ginsoy.ca/menu/",
-      "category": "Chinese"
+      "name": "Jabal Coffee House",
+      "address": "3515 Odyssey Dr #63",
+      "image": "images/Jabal.jpg",
+      "website": "https://jabalcoffeehouse.com/",
+      "phone": "(905) 828-9800",
+      "category": "Cafe"
     },
     {
       "id": 4,
@@ -37,12 +37,12 @@
     },
     {
       "id": 5,
-      "name": "L’ Afghan Grill",
-      "address": "3970 Eglinton Ave W #3",
-      "image": "images/afghangrill.jpg",
-      "phone": "(905) 569-9300",
-      "website": "https://www.lafghangrill.com/",
-      "category": "Afghan"
+      "name": "Ginsoy",
+      "address": "3505 Odyssey Dr #75",
+      "image": "images/ginsoy2.jpg",
+      "phone": "+1-866-616-3151",
+      "website": "https://ginsoy.ca/menu/",
+      "category": "Chinese"
     },
     {
       "id": 6,
@@ -91,12 +91,12 @@
     },
     {
       "id": 11,
-      "name": "Hamdi",
-      "address": "3505 Odyssey Dr #72",
-      "image": "images/hamdi.png",
-      "phone": "(905) 828-5556",
-      "website": "https://hamdirestaurant.ca/",
-      "category": "African (Somali)"
+      "name": "L’ Afghan Grill",
+      "address": "3970 Eglinton Ave W #3",
+      "image": "images/afghangrill.jpg",
+      "phone": "(905) 569-9300",
+      "website": "https://www.lafghangrill.com/",
+      "category": "Afghan"
     },
     {
       "id": 12,
@@ -640,12 +640,12 @@
     },
     {
       "id": 72,
-      "name": "Mr. Loop",
-      "address": "4700 Ridgeway Dr #70",
-      "image": "images/loop.jpg",
-      "phone": "(905) 608-0003",
-      "website": "https://www.instagram.com/mrloop.ca?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
-      "category": "Dessert"
+      "name": "Celio Lounge",
+      "address": "3505 Odyssey Dr #74",
+      "image": "images/celio.jpg",
+      "phone": "(416) 666-6744",
+      "website": "https://www.celiolounge.ca/",
+      "category": "Lounge"
     },
     {
       "id": 73,
@@ -791,6 +791,15 @@
       "website": "https://hotspotcafe.ca/",
       "phone": "(437) 564-5359",
       "category": "Cafe"
+    },
+    {
+      "id": 89,
+      "name": "Hamdi",
+      "address": "3505 Odyssey Dr #72",
+      "image": "images/hamdi.png",
+      "phone": "(905) 828-5556",
+      "website": "https://hamdirestaurant.ca/",
+      "category": "African (Somali)"
     }
   
   
