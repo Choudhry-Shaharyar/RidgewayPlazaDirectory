@@ -73,15 +73,24 @@
     },
     {
       "id": 9,
-      "name": "Mount Sinai",
-      "address": "33700 Eglinton Ave W #61",
-      "image": "images/mountSinai.jpg",
-      "phone": "(905) 569-2600",
-      "website": "https://www.ubereats.com/ca/store/mount-sinai-true-mexican-taste/j1QP60jNRKu-6vUBuVuKxQ",
-      "category": "Mexican"
+      "name": "Zalabya",
+      "address": "3700 Eglinton Ave W #56",
+      "image": "images/zalabya.jpg",
+      "phone": "(905) 820-7700",
+      "website": "https://zalabya.ca/",
+      "category": "Dessert"
     },
     {
       "id": 10,
+      "name": "Bob & Amigoz",
+      "address": "3870 Eglinton Ave W #52",
+      "image": "images/bob.jpg",
+      "phone": "(905) 820-0786",
+      "website": "https://bobandamigoz.ca/",
+      "category": "Mexican" 
+    },
+    {
+      "id": 11,
       "name": "Nawab's Legendary BBQ",
       "address": "3525 Platinum Dr #117",
       "image": "images/nawab.jpg",
@@ -90,22 +99,13 @@
       "category": "Desi"
     },
     {
-      "id": 11,
+      "id": 12,
       "name": "L’ Afghan Grill",
       "address": "3970 Eglinton Ave W #3",
       "image": "images/afghangrill.jpg",
       "phone": "(905) 569-9300",
       "website": "https://www.lafghangrill.com/",
       "category": "Afghan"
-    },
-    {
-      "id": 12,
-      "name": "Pizza Karachi",
-      "address": "3960 Eglinton Ave W #17",
-      "image": "images/pizzaKarachi.jpg",
-      "phone": "(905) 569-0077",
-      "website": "http://www.pizzakarachi.ca/",
-      "category": "Desi"
     },
     {
       "id": 13,
@@ -127,12 +127,12 @@
     },
     {
       "id": 15,
-      "name": "Yaaron Ka Adda",
-      "address": "3920 Eglinton Ave W",
-      "image": "images/yaaron.jpg",
-      "phone": "(905) 569-9222",
-      "website": "http://yaaronkaadda.ca/",
-      "category": "Desi"
+      "name": "Kanafani Sweets & Coffee",
+      "address": "3505 Odyssey Dr #66",
+      "image": "images/kanafani.jpg",
+      "phone": "(905) 828-0300",
+      "website": "http://kanafani.ca/",
+      "category": "Dessert"
     },
     {
       "id": 16,
@@ -226,11 +226,11 @@
     },
     {
       "id": 26,
-      "name": "Karachi Kitchen",
-      "address": "4700 Ridgeway Dr #74, 75",
-      "image": "images/karachiKitchen.jpg",
-      "phone": "(905) 828-9884",
-      "website": "https://www.karachikitchen.com/",
+      "name": "Chai Pani",
+      "address": "3920 Eglinton Ave W #34",
+      "image": "images/chaipani.jpg",
+      "phone": "(905) 828-0662",
+      "website": "https://www.chaipanistreetary.com/",
       "category": "Desi"
     },
     {
@@ -800,8 +800,42 @@
       "phone": "(905) 828-5556",
       "website": "https://hamdirestaurant.ca/",
       "category": "African (Somali)"
+    },
+    {
+      "id": 90,
+      "name": "Mount Sinai",
+      "address": "3700 Eglinton Ave W #61",
+      "image": "images/mountSinai.jpg",
+      "phone": "(905) 569-2600",
+      "website": "https://www.ubereats.com/ca/store/mount-sinai-true-mexican-taste/j1QP60jNRKu-6vUBuVuKxQ",
+      "category": "Mexican"
+    },
+    {
+      "id": 91,
+      "name": "Pizza Karachi",
+      "address": "3960 Eglinton Ave W #17",
+      "image": "images/pizzaKarachi.jpg",
+      "phone": "(905) 569-0077",
+      "website": "http://www.pizzakarachi.ca/",
+      "category": "Desi"
+    },
+    {
+      "id": 92,
+      "name": "Yaaron Ka Adda",
+      "address": "3920 Eglinton Ave W",
+      "image": "images/yaaron.jpg",
+      "phone": "(905) 569-9222",
+      "website": "http://yaaronkaadda.ca/",
+      "category": "Desi"
+    },
+    {
+      "id": 93,
+      "name": "Karachi Kitchen",
+      "address": "4700 Ridgeway Dr #74",
+      "image": "images/karachiKitchen.jpg",
+      "phone": "(905) 828-9884",
+      "website": "https://www.karachikitchen.com/",
+      "category": "Desi"
     }
-  
-  
   ]
   
