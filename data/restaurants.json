@@ -28,12 +28,12 @@
     },
     {
       "id": 4,
-      "name": "Burger Factory",
-      "address": "4500 Ridgeway Dr, L5M 7N4",
-      "image": "images/burgerFactory.jpg",
-      "phone": "(905) 607-6444",
-      "website": "http://burgerfactory.ca/",
-      "category": "American"
+      "name": "Hakkalicious",
+      "address": "3460 Platinum Dr #19",
+      "image": "images/hakkalicious.jpg",
+      "phone": "(905) 569-7500",
+      "website": "http://hakkalicious.ca/",
+      "category": "Chinese"
     },
     {
       "id": 5,
@@ -46,21 +46,21 @@
     },
     {
       "id": 6,
-      "name": "Red Chilli Hakka Chinese",
-      "address": "3525 Platinum Dr #104",
-      "image": "images/redchilli.jpg",
-      "phone": "(905) 820-9200",
-      "website": "https://redchilli.ca/",
-      "category": "Chinese"
+      "name": "Chai Pani",
+      "address": "3920 Eglinton Ave W #34",
+      "image": "images/chaipani.jpg",
+      "phone": "(905) 828-0662",
+      "website": "https://www.chaipanistreetary.com/",
+      "category": "Desi"
     },
-    {
+     {
       "id": 7,
-      "name": "Monderie",
-      "address": "3450 Platinum Dr",
-      "image": "images/Monderie.jpg",
-      "phone": "(416) 904-2505",
-      "website": "https://monderiebakeshop.ca/",
-      "category": "Cafe"
+      "name": "Burger Factory",
+      "address": "4500 Ridgeway Dr, L5M 7N4",
+      "image": "images/burgerFactory.jpg",
+      "phone": "(905) 607-6444",
+      "website": "http://burgerfactory.ca/",
+      "category": "American"
     },
     {
       "id": 8,
@@ -172,12 +172,13 @@
     },
     {
       "id": 20,
-      "name": "Lazeez Shawarma",
-      "address": "3465 Platinum Dr #102",
-      "image": "images/Lazeez.jpg",
-      "phone": "(905) 820-0077",
-      "website": "http://www.lazeezshawarma.com/",
-      "category": "Middle Eastern"
+      "name": "Roz WLaban",
+      "address": "3460 Platinum Dr #24",
+      "image": "images/laban.jpg",
+      "phone": "(905) 607-0046",
+      "website": "https://rozwlaban.ca/",
+      "category": "Dessert"
+
     },
     {
       "id": 21,
@@ -226,12 +227,12 @@
     },
     {
       "id": 26,
-      "name": "Chai Pani",
-      "address": "3920 Eglinton Ave W #34",
-      "image": "images/chaipani.jpg",
-      "phone": "(905) 828-0662",
-      "website": "https://www.chaipanistreetary.com/",
-      "category": "Desi"
+      "name": "Dana Kabob",
+      "address": "3700 Eglinton Ave W #62",
+      "image": "images/danakebob.jpg",
+      "phone": "(905) 569-7338",
+      "website": "https://danakabob.ca/",
+      "category": "Middle Eastern"
     },
     {
       "id": 27,
@@ -271,12 +272,12 @@
     },
     {
       "id": 31,
-      "name": "Bollywood Unlimited",
-      "address": "3970 Eglinton Ave W A-5",
-      "image": "images/BollywoodUnlimited.jpg",
-      "phone": "(905) 820-0707",
-      "website": "http://bollywoodunlimited.ca/",
-      "category": "Desi"
+      "name": "Wavey Ceviches",
+      "address": "3700 Eglinton Ave W #64",
+      "image": "images/ceviche.jpg",
+      "phone": "(905) 820-0700",
+      "website": "http://www.waveyceviches.com/",
+      "category": "Peruvian"
     },
     {
       "id": 32,
@@ -433,21 +434,21 @@
     },
     {
       "id": 49,
+      "name": "Nihari Inn",
+      "address": "3525 Platinum Dr #104",
+      "image": "images/nihari_inn.jpg",
+      "phone": "(905) 902-4141",
+      "website": "http://nihariinn.com/",
+      "category": "Desi"
+    },
+    {
+      "id": 50,
       "name": "Matari Coffee Co.",
       "address": "3465 Platinum Dr #97",
       "image": "images/Matari.jpg",
       "phone": "(905) 569-8111",
       "website": "https://mataricoffee.com/",
       "category": "Cafe"
-    },
-    {
-      "id": 50,
-      "name": "Dera Biryani",
-      "address": "3505 Odyssey Dr #70",
-      "image": "images/dera.jpg",
-      "phone": "(647) 803-5497",
-      "website": "https://www.facebook.com/DeraBiryani/",
-      "category": "Desi"
     },
     {
       "id": 51,
@@ -836,6 +837,42 @@
       "phone": "(905) 828-9884",
       "website": "https://www.karachikitchen.com/",
       "category": "Desi"
+    },
+    {
+      "id": 94,
+      "name": "Dera Biryani",
+      "address": "3505 Odyssey Dr #70",
+      "image": "images/dera.jpg",
+      "phone": "(647) 803-5497",
+      "website": "https://www.facebook.com/DeraBiryani/",
+      "category": "Desi"
+    },
+    {
+      "id": 95,
+      "name": "Bollywood Unlimited",
+      "address": "3970 Eglinton Ave W A-5",
+      "image": "images/BollywoodUnlimited.jpg",
+      "phone": "(905) 820-0707",
+      "website": "http://bollywoodunlimited.ca/",
+      "category": "Desi"
+    },
+    {
+      "id": 96,
+      "name": "Lazeez Shawarma",
+      "address": "3465 Platinum Dr #102",
+      "image": "images/Lazeez.jpg",
+      "phone": "(905) 820-0077",
+      "website": "http://www.lazeezshawarma.com/",
+      "category": "Middle Eastern"
+    },
+    {
+      "id": 97,
+      "name": "Monderie",
+      "address": "3450 Platinum Dr",
+      "image": "images/Monderie.jpg",
+      "phone": "(416) 904-2505",
+      "website": "https://monderiebakeshop.ca/",
+      "category": "Cafe"
     }
   ]
   
