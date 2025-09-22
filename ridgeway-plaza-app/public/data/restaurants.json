@@ -1,6 +1,15 @@
 [
     {
       "id": 1,
+      "name": "Namkeen",
+      "address": "3920 Eglinton Ave W #32",
+      "image": "images/namkeen.webp",
+      "phone": "(905) 820-9292",
+      "website": "https://www.eatnamkeen.com/",
+      "category": "American"
+    },
+    {
+      "id": 2,
       "name": "Sumaq",
       "address": "3920 Eglinton Ave W #25",
       "image": "images/sumac.webp",
@@ -9,7 +18,7 @@
       "category": "Middle Eastern"
     },
     {
-      "id": 2,
+      "id": 3,
       "name": "Mr. Loop",
       "address": "4700 Ridgeway Dr #70",
       "image": "images/loop.jpg",
@@ -18,7 +27,7 @@
       "category": "Dessert"
     },
     {
-      "id": 3,
+      "id": 4,
       "name": "Jabal Coffee House",
       "address": "3515 Odyssey Dr #63",
       "image": "images/Jabal.jpg",
@@ -27,7 +36,7 @@
       "category": "Cafe"
     },
     {
-      "id": 4,
+      "id": 5,
       "name": "Hakkalicious",
       "address": "3460 Platinum Dr #19",
       "image": "images/hakkalicious.jpg",
@@ -36,7 +45,7 @@
       "category": "Chinese"
     },
     {
-      "id": 5,
+      "id": 6,
       "name": "Ginsoy",
       "address": "3505 Odyssey Dr #75",
       "image": "images/ginsoy2.jpg",
@@ -45,7 +54,7 @@
       "category": "Chinese"
     },
     {
-      "id": 6,
+      "id": 7,
       "name": "Chai Pani",
       "address": "3920 Eglinton Ave W #34",
       "image": "images/chaipani.jpg",
@@ -54,7 +63,7 @@
       "category": "Desi"
     },
      {
-      "id": 7,
+      "id": 8,
       "name": "Burger Factory",
       "address": "4500 Ridgeway Dr, L5M 7N4",
       "image": "images/burgerFactory.jpg",
@@ -63,7 +72,7 @@
       "category": "American"
     },
     {
-      "id": 8,
+      "id": 9,
       "name": "Melt n Dip",
       "address": "3910 Eglinton Ave W #41-42",
       "image": "images/dip.jpg",
@@ -72,7 +81,7 @@
       "category": "Dessert"
     },
     {
-      "id": 9,
+      "id": 10,
       "name": "Zalabya",
       "address": "3700 Eglinton Ave W #56",
       "image": "images/zalabya.jpg",
@@ -81,7 +90,7 @@
       "category": "Dessert"
     },
     {
-      "id": 10,
+      "id": 11,
       "name": "Bob & Amigoz",
       "address": "3870 Eglinton Ave W #52",
       "image": "images/bob.jpg",
@@ -90,7 +99,7 @@
       "category": "Mexican" 
     },
     {
-      "id": 11,
+      "id": 12,
       "name": "Nawab's Legendary BBQ",
       "address": "3525 Platinum Dr #117",
       "image": "images/nawab.jpg",
@@ -99,7 +108,7 @@
       "category": "Desi"
     },
     {
-      "id": 12,
+      "id": 13,
       "name": "L’ Afghan Grill",
       "address": "3970 Eglinton Ave W #3",
       "image": "images/afghangrill.jpg",
@@ -108,22 +117,13 @@
       "category": "Afghan"
     },
     {
-      "id": 13,
+      "id": 14,
       "name": "Rock'N Deli",
       "address": "3525 Platinum Dr #111",
       "image": "images/rockNDeli.jpg",
       "phone": "(905) 569-0092",
       "website": "https://rockndeli.com/",
       "category": "American"
-    },
-    {
-      "id": 14,
-      "name": "The Bakers",
-      "address": "3450 Platinum Dr #5",
-      "image": "images/TheBakers.jpg",
-      "phone": "(905) 607-1711",
-      "website": "https://thebakers.ca/",
-      "category": "Middle Eastern"
     },
     {
       "id": 15,
@@ -873,6 +873,15 @@
       "phone": "(416) 904-2505",
       "website": "https://monderiebakeshop.ca/",
       "category": "Cafe"
+    },
+    {
+      "id": 98,
+      "name": "The Bakers",
+      "address": "3450 Platinum Dr #5",
+      "image": "images/TheBakers.jpg",
+      "phone": "(905) 607-1711",
+      "website": "https://thebakers.ca/",
+      "category": "Middle Eastern"
     }
   ]
   
