@@ -1,20 +1,19 @@
+.map-container {
+    padding: 40px 20px;
+    background-color: #ffffff;
+}
 
 .map-container h2 {
-    margin: 50px;
+    text-align: center;
+    color: #000000;
+    margin-bottom: 20px;
+    font-size: 32px;
 }
 
 .mapIframe {
-    margin-bottom: 80px;
+    display: block;
+    margin: 0 auto;
+    max-width: 1200px;
+    border-radius: 12px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
 }
-
-/* @media (max-width: 600px) {
-.mapIframe {
-    width: 400px;
-}
-}
-
-@media (max-width: 400px) {
-    .mapIframe {
-        width: 350px;
-    }
-    } */

@@ -109,20 +109,20 @@
   },
   {
     "id": 13,
-    "name": "L’ Afghan Grill",
-    "address": "3970 Eglinton Ave W #3",
-    "image": "images/afghangrill.jpg",
-    "phone": "(905) 569-9300",
-    "website": "https://www.lafghangrill.com/",
-    "category": "Afghan"
+    "name": "Monasaba",
+    "address": "3465 Platinum Dr #100",
+    "image": "images/monasaba.jpg",
+    "phone": "(647) 370-4752",
+    "website": "https://www.monasabafoods.com/catering/ridgeway-plaza",
+    "category": "Middle Eastern"
   },
   {
     "id": 14,
-    "name": "Rock'N Deli",
-    "address": "3525 Platinum Dr #111",
-    "image": "images/rockNDeli.jpg",
-    "phone": "(905) 569-0092",
-    "website": "https://rockndeli.com/",
+    "name": "Sam's Nashville Hot Chicken",
+    "address": "3450 Platinum Dr #4",
+    "image": "images/sams.webp",
+    "phone": "(905) 569-7270",
+    "website": "https://www.samsnashvillehotchicken.com/",
     "category": "American"
   },
   {
@@ -136,11 +136,11 @@
   },
   {
     "id": 16,
-    "name": "Burger Bloc",
-    "address": "3870 Eglinton Ave W #53",
-    "image": "images/burgerbloc2.jpg",
-    "phone": "(905) 607-0005",
-    "website": "https://burgerbloc.ca/",
+    "name": "Firefly Burger",
+    "address": "3525 Platinum Dr #111",
+    "image": "images/firefly.jpg",
+    "phone": "(905) 828-0020",
+    "website": "https://fireflyburgers.ca/",
     "category": "American"
   },
   {
@@ -883,29 +883,29 @@
   },
   {
     "id": 99,
-    "name": "Monasaba",
-    "address": "3465 Platinum Dr #100",
-    "image": "images/monasaba.jpg",
-    "phone": "(647) 370-4752",
-    "website": "https://www.monasabafoods.com/catering/ridgeway-plaza",
-    "category": "Middle Eastern"
+    "name": "L' Afghan Grill",
+    "address": "3970 Eglinton Ave W #3",
+    "image": "images/afghangrill.jpg",
+    "phone": "(905) 569-9300",
+    "website": "https://www.lafghangrill.com/",
+    "category": "Afghan"
   },
   {
     "id": 100,
-    "name": "Sam's Nashville Hot Chicken",
-    "address": "3450 Platinum Dr #4",
-    "image": "images/sams.webp",
-    "phone": "(905) 569-7270",
-    "website": "https://www.samsnashvillehotchicken.com/",
+    "name": "Rock'N Deli",
+    "address": "3525 Platinum Dr #111",
+    "image": "images/rockNDeli.jpg",
+    "phone": "(905) 569-0092",
+    "website": "https://rockndeli.com/",
     "category": "American"
   },
   {
     "id": 101,
-    "name": "Firefly Burger",
-    "address": "3525 Platinum Dr #111",
-    "image": "images/firefly.jpg",
-    "phone": "(905) 828-0020",
-    "website": "https://fireflyburgers.ca/",
+    "name": "Burger Bloc",
+    "address": "3870 Eglinton Ave W #53",
+    "image": "images/burgerbloc2.jpg",
+    "phone": "(905) 607-0005",
+    "website": "https://burgerbloc.ca/",
     "category": "American"
   }
 ]

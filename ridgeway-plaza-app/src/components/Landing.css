@@ -1,100 +1,116 @@
 .landing-page {
-    background-image: url("/public/images/background_image.webp"); /* Add your image path here */
-    height: 100vh;
-    background-size: cover;
-    background-position: center;
-  }
-  
-  .overlay {
-  /*  background-color: rgba(255, 215, 0, 0.7); /* This creates a yellow overlay */
-    width: 100%;
-    height: 100%;
-  }
-  #addRestaurantBTN:hover {
-    background-color: #212529;
-  }
-  #addRestaurantBTN {
-    color: white;
-    background-color: #212529;
-  }
-  .navbar {
-    padding-top: 20px;
-  }
-  .logo {
-    height: 50px; /* Set the height of your logo */
-    margin-right: 10px; /* Add some space between logo and text */
-  }
-  
-  .logo-container {
-    display: flex;
-    align-items: center;
-  }
-  
-  .logo-text {
-    display: flex;
-    flex-direction: column; /* Stack the spans on top of each other */
-    margin-left: 5px; /* Adjust spacing as necessary */
-    width: 150px;
-    text-align: left;
-    font-weight: 700;
-  }
-  
-
-  .hero-section {
-    position: relative;
-    top: 23%;
-    transform: translateY(-50%);
-    color: #000000;
-  }
-  .hero-section h1 {
-    font-size: 64px;
-  }
-  .hero-section p {
-    font-size: 20px;
-    padding: 7px;
-  }
-  #explore-button{
-    padding: 12px 64px;
-  }
-  /* Add more styles as needed */
-  /* You might also want to add media queries to adjust text size on smaller screens */
-
-  #navbar {
-    background-color: #fcb600 !important;
-  }
-@media (max-width: 768px) {
-  .main-heading {
-    font-size: 32px; /* Smaller font size for mobile */
-  }
-  
-  .sub-heading {
-    font-size: 18px; /* Smaller font size for mobile */
-  }
-  
-  .explore-button {
-    font-size: 16px; /* Smaller font size for mobile */
-    padding: 8px 16px; /* Smaller padding for mobile */
-  }
+  background-image: url("/public/images/background_image.webp");
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
 }
 
-.space{
+.overlay {
+  width: 100%;
+  height: 100%;
+}
+
+/* ===== Navbar Styles ===== */
+#navbar {
+  background-color: #fcb600 !important;
+}
+
+#addRestaurantBTN:hover {
+  background-color: #212529;
+}
+
+#addRestaurantBTN {
+  color: white;
+  background-color: #212529;
+  transition: all 0.2s ease;
+}
+
+/* ===== Navbar Layout ===== */
+.navbar {
+  padding-top: 20px;
+}
+
+.logo {
+  height: 50px;
+  margin-right: 10px;
+}
+
+.logo-container {
+  display: flex;
+  align-items: center;
+}
+
+.logo-text {
+  display: flex;
+  flex-direction: column;
+  margin-left: 5px;
+  width: 150px;
+  text-align: left;
+  font-weight: 700;
+  color: #000000;
+}
+
+/* ===== Hero Section ===== */
+.hero-section {
+  position: relative;
+  top: 23%;
+  transform: translateY(-50%);
+  color: #000000;
+}
+
+.hero-section h1 {
+  font-size: 64px;
+}
+
+.hero-section p {
+  font-size: 20px;
+  padding: 7px;
+}
+
+#explore-button {
+  padding: 12px 64px;
+  transition: all 0.2s ease;
+}
+
+#explore-button:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+
+/* ===== Space Section ===== */
+.space {
   padding: 3%;
   background-color: rgb(249 180 0 / 0%);
 }
 
-@media (max-width: 550px) {
-  .space {
-      padding: 10%; /* Adjust the padding as needed */
-      background-color: rgba(17, 17, 16, 0);
+/* ===== Responsive Styles ===== */
+@media (max-width: 768px) {
+  .main-heading {
+    font-size: 32px;
   }
 
- 
+  .sub-heading {
+    font-size: 18px;
+  }
+
+  .explore-button {
+    font-size: 16px;
+    padding: 8px 16px;
+  }
+}
+
+@media (max-width: 550px) {
+  .space {
+    padding: 10%;
+    background-color: rgba(17, 17, 16, 0);
+  }
+
   #addRestaurantBTN {
     font-size: smaller;
     padding: 7px;
-
   }
-  .hero-section h1{
+
+  .hero-section h1 {
     font-size: 48px;
   }
 
