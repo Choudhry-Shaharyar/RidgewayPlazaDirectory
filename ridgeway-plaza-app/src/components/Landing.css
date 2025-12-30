@@ -185,6 +185,19 @@
     0 25px 50px -12px rgba(0, 0, 0, 0.25),
     0 0 0 1px rgba(255, 255, 255, 0.1) inset;
   animation: fadeInUp 1s ease-out;
+  transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+  cursor: default;
+}
+
+.hero-content:hover {
+  transform: translateY(-8px) scale(1.02);
+  box-shadow:
+    0 35px 60px -15px rgba(0, 0, 0, 0.3),
+    0 0 0 1px rgba(255, 255, 255, 0.2) inset,
+    0 0 40px rgba(252, 182, 0, 0.15);
+  backdrop-filter: blur(25px);
+  -webkit-backdrop-filter: blur(25px);
+  border-color: rgba(255, 255, 255, 0.4);
 }
 
 @keyframes fadeInUp {
