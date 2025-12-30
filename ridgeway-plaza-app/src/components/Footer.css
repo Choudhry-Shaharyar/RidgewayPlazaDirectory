@@ -1,8 +1,9 @@
+/* ===== Footer Styles ===== */
 .footer {
-  background-color: #f7f9fb;
-  padding: 40px 0;
-  margin-top: 40px;
-  border-top: 1px solid #ddd;
+  background: linear-gradient(180deg, #fafafa 0%, #f0ebe3 100%);
+  padding: 48px 24px;
+  margin-top: 0;
+  border-top: 1px solid rgba(0, 0, 0, 0.06);
 }
 
 .footer-content {
@@ -10,18 +11,21 @@
   flex-direction: column;
   align-items: center;
   text-align: center;
-  gap: 20px;
+  gap: 24px;
+  max-width: 600px;
+  margin: 0 auto;
 }
 
 .footer .email {
-  color: #333;
+  color: #555555;
   text-decoration: none;
-  font-size: 16px;
-  transition: color 0.2s ease;
+  font-size: 15px;
+  font-weight: 500;
+  transition: all 0.2s ease;
 }
 
 .footer .email:hover {
-  color: #fbb304;
+  color: #1a1a1a;
 }
 
 .call-to-action {
@@ -29,33 +33,46 @@
 }
 
 .call-to-action p {
-  color: #666;
-  margin-bottom: 15px;
+  color: #777777;
+  margin-bottom: 16px;
   font-size: 14px;
+  line-height: 1.5;
 }
 
 .cta-button {
   display: inline-block;
-  padding: 12px 30px;
-  background-color: #fbb304;
-  color: #000000;
+  padding: 12px 32px;
+  background-color: #1a1a1a;
+  color: #ffffff;
   text-decoration: none;
   font-weight: 600;
+  font-size: 14px;
   border-radius: 8px;
   transition: all 0.2s ease;
 }
 
 .cta-button:hover {
-  background-color: #dca104;
+  background-color: #333333;
   transform: translateY(-2px);
-  box-shadow: 0 4px 12px rgba(251, 179, 4, 0.3);
-  color: #000000;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.15);
+  color: #ffffff;
   text-decoration: none;
+}
+
+.footer-logo {
+  opacity: 0.6;
+  margin-bottom: 8px;
+}
+
+.footer-copyright {
+  color: #999999;
+  font-size: 12px;
+  margin-top: 16px;
 }
 
 @media (max-width: 550px) {
   .footer {
-    padding: 30px 15px;
+    padding: 36px 20px;
   }
 
   .footer .email {
@@ -63,7 +80,7 @@
   }
 
   .cta-button {
-    padding: 10px 20px;
-    font-size: 14px;
+    padding: 10px 24px;
+    font-size: 13px;
   }
 }
