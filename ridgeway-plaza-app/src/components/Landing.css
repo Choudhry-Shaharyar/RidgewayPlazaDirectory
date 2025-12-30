@@ -24,7 +24,6 @@
     url("../assets/background_image.webp");
   background-size: cover;
   background-position: center;
-  background-attachment: fixed;
   overflow: hidden;
   filter: saturate(1.15);
 }
