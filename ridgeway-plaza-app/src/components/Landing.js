@@ -1,26 +1,29 @@
 import React from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { Button } from 'react-bootstrap';
-import './Landing.css'; // You will create this file for your custom styles
-import logo from './logo-rp.png'; // Update the path to the location of your logo
+import './Landing.css';
 
 function Landing() {
   return (
     <div className="landing-page">
       <div className="overlay">
-
-
-        <div className='space'> 
-        </div>
+        <div className='space'></div>
 
         <div className="hero-section text-center">
-        <h1 metaname="Title" content="Restaurants at Erin Mills Centre also known as Ridgeway Plaza in Mississauga ">Ridgeway Plaza</h1>
-        <meta content='Ridgeway Plaza'></meta>
-        <meta name="keywords" content="Ridgeway Plaza, Ridgeway Plaza stores, Ridgeway Plaza" />
-
-{/* Explore from over 10 different cusisnes and 70+ restaruatns */}
-          <p content='Erin Mills Centre'>Explore Erin Mills Centre, spanning Ridgway Rd, Eglinton Ave and Odyssey Dr</p>
-          <Button href="#restaurants" variant="dark" id="explore-button" size="lg">Explore Restaurants</Button>
+          <div className="hero-content">
+            <h1>Ridgeway Plaza</h1>
+            <p className="hero-subtitle">
+              Discover Erin Mills Centre's Premier Food Destination
+            </p>
+            <Button
+              href="#restaurants"
+              variant="warning"
+              id="explore-button"
+              size="lg"
+            >
+              Explore Restaurants
+            </Button>
+          </div>
         </div>
       </div>
     </div>
