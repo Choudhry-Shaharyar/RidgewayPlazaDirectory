@@ -907,5 +907,14 @@
     "phone": "(905) 607-0005",
     "website": "https://burgerbloc.ca/",
     "category": "American"
+  },
+  {
+    "id": 102,
+    "name": "Sewar House",
+    "address": "3545 Odyssey Dr #5",
+    "image": "images/sewar.jpg",
+    "phone": "(905) 607-4004",
+    "website": "https://www.sewarhouse.com/",
+    "category": "Cafe"
   }
 ]
