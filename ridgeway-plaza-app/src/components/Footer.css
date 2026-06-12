@@ -64,6 +64,29 @@
   margin-bottom: 8px;
 }
 
+.footer-bottom {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.footer-divider {
+  color: #ccc;
+  font-size: 14px;
+}
+
+.privacy-link {
+  color: #888;
+  font-size: 15px;
+  font-weight: 500;
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+.privacy-link:hover {
+  color: #1a1a1a;
+}
+
 .footer-copyright {
   color: #999999;
   font-size: 12px;

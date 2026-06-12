@@ -91,15 +91,6 @@
   },
   {
     "id": 11,
-    "name": "Bob & Amigoz",
-    "address": "3870 Eglinton Ave W #52",
-    "image": "images/bob.jpg",
-    "phone": "(905) 820-0786",
-    "website": "https://bobandamigoz.ca/",
-    "category": "Mexican"
-  },
-  {
-    "id": 12,
     "name": "Nawab's Legendary BBQ",
     "address": "3525 Platinum Dr #117",
     "image": "images/nawab.jpg",
@@ -108,7 +99,7 @@
     "category": "Desi"
   },
   {
-    "id": 13,
+    "id": 12,
     "name": "Monasaba",
     "address": "3465 Platinum Dr #100",
     "image": "images/monasaba.jpg",
@@ -117,7 +108,7 @@
     "category": "Middle Eastern"
   },
   {
-    "id": 14,
+    "id": 13,
     "name": "Sam's Nashville Hot Chicken",
     "address": "3450 Platinum Dr #4",
     "image": "images/sams.webp",
@@ -126,7 +117,7 @@
     "category": "American"
   },
   {
-    "id": 15,
+    "id": 14,
     "name": "Kanafani Sweets & Coffee",
     "address": "3505 Odyssey Dr #66",
     "image": "images/kanafani.jpg",
@@ -135,7 +126,7 @@
     "category": "Dessert"
   },
   {
-    "id": 16,
+    "id": 15,
     "name": "Firefly Burger",
     "address": "3525 Platinum Dr #111",
     "image": "images/firefly.jpg",
@@ -144,16 +135,7 @@
     "category": "American"
   },
   {
-    "id": 17,
-    "name": "Karioka Quicky",
-    "address": "3920 Eglinton Ave W #27",
-    "image": "images/Karioka.jpg",
-    "phone": "(905) 607-0600",
-    "website": "https://kariokaquickyerinmills.com/",
-    "category": "Middle Eastern"
-  },
-  {
-    "id": 18,
+    "id": 16,
     "name": "Smash Burger/Steak",
     "address": "3970 Eglinton Ave W #4",
     "image": "images/smashburgersteak.jpg",
@@ -162,7 +144,7 @@
     "category": "American"
   },
   {
-    "id": 19,
+    "id": 17,
     "name": "Gotcha Bubble Tea",
     "address": "3525 Platinum Dr #121",
     "image": "images/GotchaBubbleTea.png",
@@ -171,7 +153,7 @@
     "category": "Cafe"
   },
   {
-    "id": 20,
+    "id": 18,
     "name": "Roz WLaban",
     "address": "3460 Platinum Dr #24",
     "image": "images/laban.jpg",
@@ -180,7 +162,7 @@
     "category": "Dessert"
   },
   {
-    "id": 21,
+    "id": 19,
     "name": "Aseer Time",
     "address": "3470 Platinum Dr #37",
     "image": "images/aseer.jpg",
@@ -189,7 +171,7 @@
     "category": "Dessert"
   },
   {
-    "id": 22,
+    "id": 20,
     "name": "Church's Texas Chicken",
     "address": "4700 Ridgeway Dr #66",
     "image": "images/churchs.jpg",
@@ -198,7 +180,7 @@
     "category": "American"
   },
   {
-    "id": 23,
+    "id": 21,
     "name": "3 Food Street",
     "address": "4700 Ridgeway Dr #71",
     "image": "images/3food.jpg",
@@ -207,7 +189,7 @@
     "category": "Desi"
   },
   {
-    "id": 24,
+    "id": 22,
     "name": "Mermaid Fish & Grill House",
     "address": "4700 Ridgeway Dr #72",
     "image": "images/mermaidfish.jpg",
@@ -216,7 +198,7 @@
     "category": "Middle Eastern"
   },
   {
-    "id": 25,
+    "id": 23,
     "name": "BeaverTails",
     "address": "4700 Ridgeway Dr #73",
     "image": "images/beavertails.jpg",
@@ -225,16 +207,16 @@
     "category": "Dessert"
   },
   {
-    "id": 26,
-    "name": "Dana Kabob",
-    "address": "3700 Eglinton Ave W #62",
-    "image": "images/danakebob.jpg",
-    "phone": "(905) 569-7338",
-    "website": "https://danakabob.ca/",
-    "category": "Middle Eastern"
+    "id": 24,
+    "name": "Crown Pastries",
+    "address": "3480 Platinum Dr #96",
+    "image": "images/crownPastries.jpg",
+    "phone": "(905) 602-2018",
+    "website": "https://crownpastries.com/",
+    "category": "Dessert"
   },
   {
-    "id": 27,
+    "id": 25,
     "name": "Sandy's Egyptian Taste",
     "address": "3700 Eglinton Ave W #57",
     "image": "images/sandy.png",
@@ -243,7 +225,7 @@
     "category": "Middle Eastern"
   },
   {
-    "id": 28,
+    "id": 26,
     "name": "Karahi Boys",
     "address": "3525 Platinum Dr #113",
     "image": "images/KarahiBoys.jpg",
@@ -252,7 +234,7 @@
     "category": "Desi"
   },
   {
-    "id": 29,
+    "id": 27,
     "name": "Brar's",
     "address": "3910 Eglinton Ave W #37, 38",
     "image": "images/brar.jpg",
@@ -261,7 +243,7 @@
     "category": "Desi"
   },
   {
-    "id": 30,
+    "id": 28,
     "name": "Döner & Gyros",
     "address": "3910 Eglinton Ave W #40",
     "image": "images/doner.jpg",
@@ -270,7 +252,7 @@
     "category": "Middle Eastern"
   },
   {
-    "id": 31,
+    "id": 29,
     "name": "Wavey Ceviches",
     "address": "3700 Eglinton Ave W #64",
     "image": "images/ceviche.jpg",
@@ -279,7 +261,7 @@
     "category": "Peruvian"
   },
   {
-    "id": 32,
+    "id": 30,
     "name": "Asli Shawarma",
     "address": "3970 Eglinton Ave W #6",
     "image": "images/Asli.jpg",
@@ -288,7 +270,7 @@
     "category": "Middle Eastern"
   },
   {
-    "id": 33,
+    "id": 31,
     "name": "5 Tara",
     "address": "3960 Eglinton Ave W #15",
     "image": "images/Tara.jpg",
@@ -297,7 +279,7 @@
     "category": "Desi"
   },
   {
-    "id": 34,
+    "id": 32,
     "name": "Jamaica House Jerk",
     "address": "3960 Eglinton Ave W #18",
     "image": "images/JamaicaHouseJerk.jpg",
@@ -306,7 +288,7 @@
     "category": "Caribbean"
   },
   {
-    "id": 35,
+    "id": 33,
     "name": "Chef G",
     "address": "3960 Eglinton Ave W #19",
     "image": "images/ChefG.jpg",
@@ -315,7 +297,7 @@
     "category": "Desi"
   },
   {
-    "id": 36,
+    "id": 34,
     "name": "Biryani Boss",
     "address": "3960 Eglinton Ave W #20",
     "image": "images/BiryaniBoss.jpg",
@@ -324,7 +306,7 @@
     "category": "Desi"
   },
   {
-    "id": 37,
+    "id": 35,
     "name": "GC Burger",
     "address": "3920 Eglinton Ave W #28",
     "image": "images/GC.jpg",
@@ -333,7 +315,7 @@
     "category": "American"
   },
   {
-    "id": 38,
+    "id": 36,
     "name": "Baigs Grill",
     "address": "3920 Eglinton Ave W #32",
     "image": "images/Baigs.jpg",
@@ -342,7 +324,7 @@
     "category": "Desi"
   },
   {
-    "id": 39,
+    "id": 37,
     "name": "Bakhtar Kabab",
     "address": "3910 Eglinton Ave W #39",
     "image": "images/Bakhtar.jpg",
@@ -351,7 +333,7 @@
     "category": "Afghan"
   },
   {
-    "id": 40,
+    "id": 38,
     "name": "MyKolachi",
     "address": "3900 Eglinton Ave W #126",
     "image": "images/MyKolachi.jpg",
@@ -360,7 +342,7 @@
     "category": "Desi"
   },
   {
-    "id": 41,
+    "id": 39,
     "name": "City South Pizza",
     "address": "3900 Eglinton Ave W #46",
     "image": "images/CitySouth.jpg",
@@ -369,7 +351,7 @@
     "category": "American"
   },
   {
-    "id": 42,
+    "id": 40,
     "name": "Shawarma Avenue",
     "address": "3900 Eglinton Ave W #45",
     "image": "images/ShawarmaAvenue.jpeg",
@@ -378,7 +360,7 @@
     "category": "Middle Eastern"
   },
   {
-    "id": 43,
+    "id": 41,
     "name": "Food Fight BBQ",
     "address": "3900 Eglinton Ave W",
     "image": "images/FoodFight.jpg",
@@ -387,7 +369,7 @@
     "category": "American"
   },
   {
-    "id": 44,
+    "id": 42,
     "name": "Baskin Robbins",
     "address": "3900 Eglinton Ave W #43",
     "image": "images/Baskin.jpg",
@@ -396,7 +378,7 @@
     "category": "Dessert"
   },
   {
-    "id": 45,
+    "id": 43,
     "name": "Pizza Toronto Burger n’ Wings",
     "address": "3525 Platinum Dr #115",
     "image": "images/pizzaToronto.jpg",
@@ -405,7 +387,7 @@
     "category": "American"
   },
   {
-    "id": 46,
+    "id": 44,
     "name": "Potato Bar",
     "address": "3525 Platinum Dr #119",
     "image": "images/potatoBar.jpg",
@@ -414,7 +396,7 @@
     "category": "American"
   },
   {
-    "id": 47,
+    "id": 45,
     "name": "Mil Roast Sports & Bar",
     "address": "3970 Eglinton Ave W #7",
     "image": "images/mil.jpg",
@@ -423,7 +405,7 @@
     "category": "Peruvian"
   },
   {
-    "id": 48,
+    "id": 46,
     "name": "Chulla Express",
     "address": "3525 Platinum Dr #122",
     "image": "images/Chulla.jpg",
@@ -432,7 +414,7 @@
     "category": "Desi"
   },
   {
-    "id": 49,
+    "id": 47,
     "name": "Nihari Inn",
     "address": "3525 Platinum Dr #104",
     "image": "images/nihari_inn.jpg",
@@ -441,7 +423,7 @@
     "category": "Desi"
   },
   {
-    "id": 50,
+    "id": 48,
     "name": "Matari Coffee Co.",
     "address": "3465 Platinum Dr #97",
     "image": "images/Matari.jpg",
@@ -450,7 +432,7 @@
     "category": "Cafe"
   },
   {
-    "id": 51,
+    "id": 49,
     "name": "Gong Cha",
     "address": "3465 Platinum Dr #101",
     "image": "images/GongCha.jpg",
@@ -459,7 +441,7 @@
     "category": "Cafe"
   },
   {
-    "id": 52,
+    "id": 50,
     "name": "Saraya",
     "address": "3465 Platinum Dr #100",
     "image": "images/Saraya.jpg",
@@ -468,7 +450,7 @@
     "category": "Middle Eastern"
   },
   {
-    "id": 53,
+    "id": 51,
     "name": "The Bloom Coffee",
     "address": "3525 Platinum Dr",
     "image": "images/BloomCoffee.jpg",
@@ -477,7 +459,7 @@
     "category": "Cafe"
   },
   {
-    "id": 54,
+    "id": 52,
     "name": "Karachi Food Court",
     "address": "3450 Platinum Dr",
     "image": "images/KarachiFoodCourt.jpg",
@@ -486,7 +468,7 @@
     "category": "Desi"
   },
   {
-    "id": 55,
+    "id": 53,
     "name": "Rahat Bakery",
     "address": "3920 Eglinton Ave W #24",
     "image": "images/rahat.jpg",
@@ -495,7 +477,7 @@
     "category": "Cafe"
   },
   {
-    "id": 56,
+    "id": 54,
     "name": "Aladdin's Shawarma Fusion",
     "address": "3960 Eglinton Ave W #21",
     "image": "images/aladdin.jpg",
@@ -504,7 +486,7 @@
     "category": "Middle Eastern"
   },
   {
-    "id": 57,
+    "id": 55,
     "name": "Rolly Polly Cow",
     "address": "3450 Platinum Dr",
     "image": "images/RollyPollyCow.jpg",
@@ -513,7 +495,7 @@
     "category": "Dessert"
   },
   {
-    "id": 58,
+    "id": 56,
     "name": "Alforat",
     "address": "3460 Platinum Dr #20",
     "image": "images/Alforat.jpg",
@@ -522,16 +504,7 @@
     "category": "Middle Eastern"
   },
   {
-    "id": 59,
-    "name": "Morocco's Kitchen",
-    "address": "3460 Platinum Dr #24",
-    "image": "images/MKitchen.jpg",
-    "phone": "(905) 607-0046",
-    "website": "http://moroccoskitchen.ca/",
-    "category": "Middle Eastern"
-  },
-  {
-    "id": 60,
+    "id": 57,
     "name": "Pizza Hut",
     "address": "3470 Platinum Dr #41",
     "image": "images/PizzaHut.jpg",
@@ -540,7 +513,7 @@
     "category": "American"
   },
   {
-    "id": 61,
+    "id": 58,
     "name": "Subway",
     "address": "3470 Platinum Dr #40",
     "image": "images/Subway.jpg",
@@ -549,16 +522,7 @@
     "category": "American"
   },
   {
-    "id": 62,
-    "name": "3 Drinks Cafe",
-    "address": "3525 Odyssey Dr #47",
-    "image": "images/3Drinks.jpg",
-    "phone": "(905) 820-9900",
-    "website": "https://www.instagram.com/3drinkscafe/",
-    "category": "Cafe"
-  },
-  {
-    "id": 63,
+    "id": 59,
     "name": "Znoud Al-Hamdani",
     "address": "3525 Odyssey Dr #50",
     "image": "images/Znoud.jpg",
@@ -567,7 +531,7 @@
     "category": "Dessert"
   },
   {
-    "id": 64,
+    "id": 60,
     "name": "Fire Spot",
     "address": "3515 Odyssey Dr #61",
     "image": "images/FireSpot.jpg",
@@ -576,7 +540,7 @@
     "category": "Dessert"
   },
   {
-    "id": 65,
+    "id": 61,
     "name": "Lahore Chaat & Desi Burger",
     "address": "3515 Odyssey Dr #58",
     "image": "images/DesiBurger.jpg",
@@ -585,7 +549,7 @@
     "category": "Desi"
   },
   {
-    "id": 66,
+    "id": 62,
     "name": "K-Sweets Tea",
     "address": "3515 Odyssey Dr #53",
     "image": "images/KSweetTea.jpg",
@@ -594,16 +558,7 @@
     "category": "Cafe"
   },
   {
-    "id": 67,
-    "name": "Paan Casa",
-    "address": "3505 Odyssey Dr #68",
-    "image": "images/PaanCasa.png",
-    "phone": "(905) 569-2666",
-    "website": "https://www.paancasa.ca/",
-    "category": "Desi"
-  },
-  {
-    "id": 68,
+    "id": 63,
     "name": "The Dough Story",
     "address": "3535 Odyssey Dr #90",
     "image": "images/DoughStory.jpg",
@@ -612,7 +567,7 @@
     "category": "Cafe"
   },
   {
-    "id": 69,
+    "id": 64,
     "name": "Cha Sha",
     "address": "3535 Odyssey Dr",
     "image": "images/ChaSha.jpg",
@@ -621,7 +576,7 @@
     "category": "Desi"
   },
   {
-    "id": 70,
+    "id": 65,
     "name": "Sun Chinese Cuisine",
     "address": "3480 Platinum Dr #110",
     "image": "images/SunChinese2.jpg",
@@ -630,7 +585,7 @@
     "category": "Chinese"
   },
   {
-    "id": 71,
+    "id": 66,
     "name": "Mutabak Karak",
     "address": "3480 Platinum Dr #98",
     "image": "images/Mutabak.jpg",
@@ -639,7 +594,7 @@
     "category": "Middle Eastern"
   },
   {
-    "id": 72,
+    "id": 67,
     "name": "Celio Lounge",
     "address": "3505 Odyssey Dr #74",
     "image": "images/celio.jpg",
@@ -648,7 +603,7 @@
     "category": "Lounge"
   },
   {
-    "id": 73,
+    "id": 68,
     "name": "Karahi Master",
     "address": "3525 Platinum Dr #105",
     "image": "images/karahimaster.jpeg",
@@ -657,7 +612,7 @@
     "category": "Desi"
   },
   {
-    "id": 74,
+    "id": 69,
     "name": "AzBerry",
     "address": "3450 Platinum Dr #6",
     "image": "images/azberry.jpg",
@@ -666,7 +621,7 @@
     "category": "Cafe"
   },
   {
-    "id": 75,
+    "id": 70,
     "name": "Indulge Lounge & Cafe",
     "address": "3535 Odyssey Dr #87",
     "image": "images/indulge.jpg",
@@ -675,7 +630,7 @@
     "category": "Cafe"
   },
   {
-    "id": 76,
+    "id": 71,
     "name": "Chachu's",
     "address": "3505 Odyssey Dr #69",
     "image": "images/chachus.jpg",
@@ -684,16 +639,7 @@
     "category": "Desi"
   },
   {
-    "id": 77,
-    "name": "Fusion Flo",
-    "address": "3525 Platinum Dr #106",
-    "image": "images/Fusion.jpg",
-    "website": "https://fusionflo.ca/",
-    "phone": "(416) 918-1702",
-    "category": "Lounge"
-  },
-  {
-    "id": 78,
+    "id": 72,
     "name": "Shawerma Plus",
     "address": "4700 Ridgeway Dr #67",
     "image": "images/ShawermaPlus.jpg",
@@ -702,7 +648,7 @@
     "category": "Middle Eastern"
   },
   {
-    "id": 79,
+    "id": 73,
     "name": "Helvaci Ali",
     "address": "3535 Odyssey Dr #89",
     "image": "images/Helvaci.jpg",
@@ -711,16 +657,7 @@
     "category": "Dessert"
   },
   {
-    "id": 80,
-    "name": "Antiochia Turkish Doner",
-    "address": "3460 Platinum Dr #25",
-    "image": "images/Antiochia.jpg",
-    "website": "https://www.instagram.com/antiochiadoner.ca/",
-    "phone": "(905) 569-2727",
-    "category": "Middle Eastern"
-  },
-  {
-    "id": 81,
+    "id": 74,
     "name": "Soul 5",
     "address": "3920 Eglinton Ave W #29",
     "image": "images/soul5.jpg",
@@ -729,7 +666,7 @@
     "category": "American"
   },
   {
-    "id": 82,
+    "id": 75,
     "name": "Zain Alsham",
     "address": "3460 Platinum Dr #21",
     "image": "images/zain.jpg",
@@ -738,7 +675,7 @@
     "category": "Middle Eastern"
   },
   {
-    "id": 83,
+    "id": 76,
     "name": "Chachee's Chai Cafe",
     "address": "3450 Platinum Dr #13",
     "image": "images/chachee.jpg",
@@ -747,7 +684,7 @@
     "category": "Desi"
   },
   {
-    "id": 84,
+    "id": 77,
     "name": "Lahore Chatkhara",
     "address": "3920 Eglinton Ave #33",
     "image": "images/chatkhara.png",
@@ -756,7 +693,7 @@
     "category": "Desi"
   },
   {
-    "id": 85,
+    "id": 78,
     "name": "Shako Mako",
     "address": "3515 Odyssey Dr #56",
     "image": "images/shako.webp",
@@ -765,7 +702,7 @@
     "category": "Middle Eastern"
   },
   {
-    "id": 86,
+    "id": 79,
     "name": "Afghan Palace",
     "address": "3505 Odyssey Dr #65",
     "image": "images/afghanpalace.jpeg",
@@ -774,7 +711,7 @@
     "category": "Afghan"
   },
   {
-    "id": 87,
+    "id": 80,
     "name": "Lahori Flame",
     "address": "4700 Ridgeway Dr #68",
     "image": "images/lahoriflame.jpg",
@@ -783,7 +720,7 @@
     "category": "Desi"
   },
   {
-    "id": 88,
+    "id": 81,
     "name": "Hotspot Cafe",
     "address": "3525 Platinum Dr #115",
     "image": "images/hotspot.jpg",
@@ -792,7 +729,7 @@
     "category": "Cafe"
   },
   {
-    "id": 89,
+    "id": 82,
     "name": "Hamdi",
     "address": "3505 Odyssey Dr #72",
     "image": "images/hamdi.png",
@@ -801,7 +738,7 @@
     "category": "African (Somali)"
   },
   {
-    "id": 90,
+    "id": 83,
     "name": "Mount Sinai",
     "address": "3700 Eglinton Ave W #61",
     "image": "images/mountSinai.jpg",
@@ -810,7 +747,7 @@
     "category": "Mexican"
   },
   {
-    "id": 91,
+    "id": 84,
     "name": "Pizza Karachi",
     "address": "3960 Eglinton Ave W #17",
     "image": "images/pizzaKarachi.jpg",
@@ -819,7 +756,7 @@
     "category": "Desi"
   },
   {
-    "id": 92,
+    "id": 85,
     "name": "Yaaron Ka Adda",
     "address": "3920 Eglinton Ave W",
     "image": "images/yaaron.jpg",
@@ -828,7 +765,7 @@
     "category": "Desi"
   },
   {
-    "id": 93,
+    "id": 86,
     "name": "Karachi Kitchen",
     "address": "4700 Ridgeway Dr #74",
     "image": "images/karachiKitchen.jpg",
@@ -837,7 +774,7 @@
     "category": "Desi"
   },
   {
-    "id": 94,
+    "id": 87,
     "name": "Dera Biryani",
     "address": "3505 Odyssey Dr #70",
     "image": "images/dera.jpg",
@@ -846,7 +783,7 @@
     "category": "Desi"
   },
   {
-    "id": 95,
+    "id": 88,
     "name": "Bollywood Unlimited",
     "address": "3970 Eglinton Ave W A-5",
     "image": "images/BollywoodUnlimited.jpg",
@@ -855,7 +792,7 @@
     "category": "Desi"
   },
   {
-    "id": 96,
+    "id": 89,
     "name": "Lazeez Shawarma",
     "address": "3465 Platinum Dr #102",
     "image": "images/Lazeez.jpg",
@@ -864,7 +801,7 @@
     "category": "Middle Eastern"
   },
   {
-    "id": 97,
+    "id": 90,
     "name": "Monderie",
     "address": "3450 Platinum Dr",
     "image": "images/Monderie.jpg",
@@ -873,7 +810,7 @@
     "category": "Cafe"
   },
   {
-    "id": 98,
+    "id": 91,
     "name": "The Bakers",
     "address": "3450 Platinum Dr #5",
     "image": "images/TheBakers.jpg",
@@ -882,7 +819,7 @@
     "category": "Middle Eastern"
   },
   {
-    "id": 99,
+    "id": 92,
     "name": "L' Afghan Grill",
     "address": "3970 Eglinton Ave W #3",
     "image": "images/afghangrill.jpg",
@@ -891,16 +828,7 @@
     "category": "Afghan"
   },
   {
-    "id": 100,
-    "name": "Rock'N Deli",
-    "address": "3525 Platinum Dr #111",
-    "image": "images/rockNDeli.jpg",
-    "phone": "(905) 569-0092",
-    "website": "https://rockndeli.com/",
-    "category": "American"
-  },
-  {
-    "id": 101,
+    "id": 93,
     "name": "Burger Bloc",
     "address": "3870 Eglinton Ave W #53",
     "image": "images/burgerbloc2.jpg",
@@ -909,12 +837,57 @@
     "category": "American"
   },
   {
-    "id": 102,
+    "id": 94,
     "name": "Sewar House",
     "address": "3545 Odyssey Dr #5",
     "image": "images/sewar.jpg",
     "phone": "(905) 607-4004",
     "website": "https://www.sewarhouse.com/",
     "category": "Cafe"
+  },
+  {
+    "id": 95,
+    "name": "Ketkoot Iraqi Chargrilled Chicken",
+    "address": "3450 Platinum Dr #11",
+    "image": "images/ketkoot.png",
+    "phone": "(905) 828-8585",
+    "website": "https://ketkoot.ca/",
+    "category": "Middle Eastern"
+  },
+  {
+    "id": 96,
+    "name": "Dana Kabob",
+    "address": "3700 Eglinton Ave W #62",
+    "image": "images/danakebob.jpg",
+    "phone": "(905) 569-7338",
+    "website": "https://danakabob.ca/",
+    "category": "Middle Eastern"
+  },
+  {
+    "id": 97,
+    "name": "Wrapstors",
+    "address": "3460 Platinum Dr #25",
+    "image": "images/wrapstors.jpg",
+    "phone": "(905) 607-9119",
+    "website": "https://wrapstors.ca/",
+    "category": "Middle Eastern"
+  },
+  {
+    "id": 98,
+    "name": "Cafe Pyaala",
+    "address": "3505 Odyssey Dr #68",
+    "image": "images/cafePyaala.jpg",
+    "phone": "(905) 569-2666",
+    "website": "https://cafepyaala.com/",
+    "category": "Desi"
+  },
+  {
+    "id": 99,
+    "name": "Nablus Creamery",
+    "address": "4700 Ridgeway Dr #69",
+    "image": "images/nablusCreamery.webp",
+    "phone": "(647) 530-5440",
+    "website": "https://nabluscreamery.ca/",
+    "category": "Dessert"
   }
 ]
