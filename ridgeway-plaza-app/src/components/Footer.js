@@ -6,9 +6,6 @@ const Footer = () => {
     <footer className="footer" id="footer">
       <div className="container">
         <div className="footer-content">
-          <a href="mailto:ridgewayplazadirectory@gmail.com" className="email">
-            ridgewayplazadirectory@gmail.com
-          </a>
           <div className="call-to-action">
             <p>Subscribe to our newsletter for the latest updates, deals, and restaurant news.</p>
             <a
@@ -19,6 +16,13 @@ const Footer = () => {
             >
               Subscribe Now
             </a>
+          </div>
+          <div className="footer-bottom">
+            <a href="mailto:ridgewayplazadirectory@gmail.com" className="email">
+              ridgewayplazadirectory@gmail.com
+            </a>
+            <span className="footer-divider">·</span>
+            <a href="/privacy-policy.html" className="privacy-link">Privacy Policy</a>
           </div>
         </div>
       </div>
