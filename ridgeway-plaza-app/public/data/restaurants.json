@@ -703,12 +703,12 @@
   },
   {
     "id": 79,
-    "name": "Afghan Palace",
+    "name": "Flak'd Burger & Co.",
     "address": "3505 Odyssey Dr #65",
-    "image": "images/afghanpalace.jpeg",
-    "website": "http://afghanpalace.ca/",
-    "phone": "(905) 569-3006",
-    "category": "Afghan"
+    "image": "images/flakd.webp",
+    "website": "https://flakd.ca/",
+    "phone": "(647) 493-3796",
+    "category": "American"
   },
   {
     "id": 80,
