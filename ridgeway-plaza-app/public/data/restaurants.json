@@ -14,17 +14,17 @@
     "address": "3920 Eglinton Ave W #25",
     "image": "images/sumac.webp",
     "phone": "(905) 569-1888",
-    "website": "https://sumaq.bycalibre.ca/location",
+    "website": "https://sumaqrestaurant.ca/",
     "category": "Middle Eastern"
   },
   {
     "id": 3,
-    "name": "Mr. Loop",
-    "address": "4700 Ridgeway Dr #70",
-    "image": "images/loop.jpg",
-    "phone": "(905) 608-0003",
-    "website": "https://mrloop.ca/",
-    "category": "Dessert"
+    "name": "Honey Teapresso",
+    "address": "3700 Eglinton Ave W #60",
+    "image": "images/honey-teapresso.jpg",
+    "phone": "(905) 606-2200",
+    "website": "http://www.honeyteapresso.com/",
+    "category": "Cafe"
   },
   {
     "id": 4,
@@ -145,21 +145,21 @@
   },
   {
     "id": 17,
-    "name": "Gotcha Bubble Tea",
+    "name": "Cherry's Desserts",
     "address": "3525 Platinum Dr #121",
-    "image": "images/GotchaBubbleTea.png",
-    "phone": "(905) 607-8688",
-    "website": "https://gotchabubbletea.ca/",
-    "category": "Cafe"
+    "image": "images/CherrysDesserts.jpg",
+    "phone": "(905) 569-6001",
+    "website": "https://cherrysdesserts.ca/",
+    "category": "Dessert"
   },
   {
     "id": 18,
-    "name": "Roz WLaban",
+    "name": "District Tacos",
     "address": "3460 Platinum Dr #24",
-    "image": "images/laban.jpg",
-    "phone": "(905) 607-0046",
-    "website": "https://rozwlaban.ca/",
-    "category": "Dessert"
+    "image": "images/DistrictTacos.jpg",
+    "phone": "TO CONFIRM",
+    "website": "https://www.instagram.com/district.tacos/",
+    "category": "Mexican"
   },
   {
     "id": 19,
@@ -199,12 +199,12 @@
   },
   {
     "id": 23,
-    "name": "BeaverTails",
+    "name": "Mermaid Boil",
     "address": "4700 Ridgeway Dr #73",
-    "image": "images/beavertails.jpg",
-    "phone": "(905) 608-0110",
-    "website": "https://beavertails.com/",
-    "category": "Dessert"
+    "image": "images/mermaidBoil.jpg",
+    "phone": "(905) 569-8388",
+    "website": "https://mermaidboil.com/",
+    "category": "Middle Eastern"
   },
   {
     "id": 24,
@@ -244,12 +244,12 @@
   },
   {
     "id": 28,
-    "name": "Döner & Gyros",
+    "name": "Mithai Master",
     "address": "3910 Eglinton Ave W #40",
-    "image": "images/doner.jpg",
-    "phone": "(905) 607-1900",
-    "website": "https://donerandgyros.ca/",
-    "category": "Middle Eastern"
+    "image": "images/mithai-master.jpg",
+    "phone": "(905) 828-0556",
+    "website": "https://mithai-master.dinenivo.com/menu",
+    "category": "Dessert"
   },
   {
     "id": 29,
@@ -257,7 +257,7 @@
     "address": "3700 Eglinton Ave W #64",
     "image": "images/ceviche.jpg",
     "phone": "(905) 820-0700",
-    "website": "http://www.waveyceviches.com/",
+    "website": "https://www.waveyceviches.ca/",
     "category": "Peruvian"
   },
   {
@@ -271,21 +271,21 @@
   },
   {
     "id": 31,
-    "name": "5 Tara",
+    "name": "Butt Karahi",
     "address": "3960 Eglinton Ave W #15",
-    "image": "images/Tara.jpg",
-    "phone": "(905) 607-4141",
-    "website": "https://5tara.ca/",
+    "image": "images/ButtKarahi.jpg",
+    "phone": "(905) 607-2626",
+    "website": "https://buttkarahi.com/ridgeway",
     "category": "Desi"
   },
   {
     "id": 32,
-    "name": "Jamaica House Jerk",
+    "name": "Spice Villa",
     "address": "3960 Eglinton Ave W #18",
-    "image": "images/JamaicaHouseJerk.jpg",
-    "phone": "(905) 569-0088",
-    "website": "https://jamaicahousejerk.ca/",
-    "category": "Caribbean"
+    "image": "images/SpiceVilla.jpg",
+    "phone": "(905) 607-6333",
+    "website": "https://www.spicevillamissisauga.com/",
+    "category": "Desi"
   },
   {
     "id": 33,
@@ -298,12 +298,12 @@
   },
   {
     "id": 34,
-    "name": "Biryani Boss",
+    "name": "Mountain Burger",
     "address": "3960 Eglinton Ave W #20",
-    "image": "images/BiryaniBoss.jpg",
-    "phone": "(905) 536-6708",
-    "website": "http://www.biryaniboss.ca/",
-    "category": "Desi"
+    "image": "images/MountainBurger.jpg",
+    "phone": "(905) 820-6377",
+    "website": "https://mountainburger.ca/",
+    "category": "American"
   },
   {
     "id": 35,
@@ -316,12 +316,12 @@
   },
   {
     "id": 36,
-    "name": "Baigs Grill",
-    "address": "3920 Eglinton Ave W #32",
-    "image": "images/Baigs.jpg",
-    "phone": "(905) 569-1600",
-    "website": "http://www.baigsgrill.com/",
-    "category": "Desi"
+    "name": "DOLMAZ",
+    "address": "3870 Eglinton Ave W #52",
+    "image": "images/dolmaz.jpg",
+    "phone": "(905) 569-0999",
+    "website": "https://dolmaz.ca/",
+    "category": "Middle Eastern"
   },
   {
     "id": 37,
@@ -361,12 +361,12 @@
   },
   {
     "id": 41,
-    "name": "Food Fight BBQ",
-    "address": "3900 Eglinton Ave W",
-    "image": "images/FoodFight.jpg",
-    "phone": "(905) 820-0202",
-    "website": "https://www.foodfightbbq.com/",
-    "category": "American"
+    "name": "Al-Bassam Roastery",
+    "address": "3525 Odyssey Dr #43",
+    "image": "images/alBassam.jpg",
+    "phone": "(647) 550-2019",
+    "website": "https://albassam.ca/",
+    "category": "Cafe"
   },
   {
     "id": 42,
@@ -379,12 +379,12 @@
   },
   {
     "id": 43,
-    "name": "Pizza Toronto Burger n’ Wings",
-    "address": "3525 Platinum Dr #115",
-    "image": "images/pizzaToronto.jpg",
-    "phone": "(905) 569-1992",
-    "website": "https://pizzatoronto.ca/",
-    "category": "American"
+    "name": "Chatori Gali",
+    "address": "3525 Odyssey Dr #47",
+    "image": "images/chatoriGali.jpg",
+    "phone": "(647) 600-4122",
+    "website": "https://www.chatorigali.ca/",
+    "category": "Desi"
   },
   {
     "id": 44,
@@ -397,12 +397,12 @@
   },
   {
     "id": 45,
-    "name": "Mil Roast Sports & Bar",
+    "name": "Jungle Bistro",
     "address": "3970 Eglinton Ave W #7",
-    "image": "images/mil.jpg",
-    "phone": "(647) 448-1512",
-    "website": "https://www.milroast.com/",
-    "category": "Peruvian"
+    "image": "images/JungleBistro.jpg",
+    "phone": "(905) 820-0760",
+    "website": "https://junglebistro.ca/",
+    "category": "Desi"
   },
   {
     "id": 46,
@@ -442,21 +442,21 @@
   },
   {
     "id": 50,
-    "name": "Saraya",
-    "address": "3465 Platinum Dr #100",
-    "image": "images/Saraya.jpg",
-    "phone": "(905) 608-0010",
-    "website": "https://www.saraya.ca/",
-    "category": "Middle Eastern"
+    "name": "Garage Steakhouse & Grill",
+    "address": "3535 Odyssey Dr #83",
+    "image": "images/garageSteakhouse.jpg",
+    "phone": "(866) 787-0707",
+    "website": "https://garagesteakhouse.com/",
+    "category": "American"
   },
   {
     "id": 51,
-    "name": "The Bloom Coffee",
-    "address": "3525 Platinum Dr",
-    "image": "images/BloomCoffee.jpg",
-    "phone": "(647) 819-5767",
-    "website": "https://thebloomcoffee.ca/",
-    "category": "Cafe"
+    "name": "Chef's Shawarma",
+    "address": "3535 Odyssey Dr #84",
+    "image": "images/chefsShawarma.jpg",
+    "phone": "(905) 569-8788",
+    "website": "https://chefs-shawarma.ca/",
+    "category": "Middle Eastern"
   },
   {
     "id": 52,
@@ -478,21 +478,21 @@
   },
   {
     "id": 54,
-    "name": "Aladdin's Shawarma Fusion",
+    "name": "Shawarma Alzaeem",
     "address": "3960 Eglinton Ave W #21",
-    "image": "images/aladdin.jpg",
-    "phone": "(905) 820-0050",
-    "website": "http://www.aladdinsshawarma.com/",
+    "image": "images/ShawarmaAlzaeem.jpg",
+    "phone": "(437) 606-7724",
+    "website": "https://alzaeem.ca/",
     "category": "Middle Eastern"
   },
   {
     "id": 55,
-    "name": "Rolly Polly Cow",
-    "address": "3450 Platinum Dr",
-    "image": "images/RollyPollyCow.jpg",
-    "phone": "(905) 827-9702",
-    "website": "http://www.rollypollycow.com/",
-    "category": "Dessert"
+    "name": "IceCoal Lounge",
+    "address": "3545 Odyssey Dr #3",
+    "image": "images/iceCoal.jpg",
+    "phone": "(437) 422-0423",
+    "website": "https://icecoal.ca/",
+    "category": "Lounge"
   },
   {
     "id": 56,
@@ -550,20 +550,20 @@
   },
   {
     "id": 62,
-    "name": "K-Sweets Tea",
-    "address": "3515 Odyssey Dr #53",
-    "image": "images/KSweetTea.jpg",
-    "phone": "(905) 607-0202",
-    "website": "http://ksweetstea-mississauga.square.site/",
-    "category": "Cafe"
+    "name": "Kababko Iraqi Grill",
+    "address": "3460 Platinum Dr #29",
+    "image": "images/Kababko.jpg",
+    "phone": "(905) 607-8607",
+    "website": "https://kababko.ca/",
+    "category": "Middle Eastern"
   },
   {
     "id": 63,
-    "name": "The Dough Story",
+    "name": "The Dough Diaries",
     "address": "3535 Odyssey Dr #90",
     "image": "images/DoughStory.jpg",
     "phone": "(437) 980-2700",
-    "website": "https://www.thedoughstory.ca/",
+    "website": "https://thedoughdiaries.ca/",
     "category": "Cafe"
   },
   {
@@ -613,12 +613,12 @@
   },
   {
     "id": 69,
-    "name": "AzBerry",
+    "name": "Istanbul Doner House",
     "address": "3450 Platinum Dr #6",
-    "image": "images/azberry.jpg",
-    "website": "https://instagram.com/azberry.canada?igshid=NTc4MTIwNjQ2YQ==",
-    "phone": "(905) 606-2100",
-    "category": "Cafe"
+    "image": "images/IstanbulDonerHouse.jpg",
+    "phone": "(905) 607-0777",
+    "website": "https://istanbuldonerhouseridgeway.com/",
+    "category": "Middle Eastern"
   },
   {
     "id": 70,
@@ -631,11 +631,11 @@
   },
   {
     "id": 71,
-    "name": "Chachu's",
+    "name": "Bob's Shinwari",
     "address": "3505 Odyssey Dr #69",
-    "image": "images/chachus.jpg",
-    "website": "https://www.fedbychachus.com/?location=11ef0ee4c846f848ae54ac1f6bbbd01e#most-popular",
-    "phone": "(905) 569-0600",
+    "image": "images/bobsShinwari.jpg",
+    "phone": "(905) 607-1786",
+    "website": "https://bobsshinwari.com/",
     "category": "Desi"
   },
   {
@@ -712,21 +712,21 @@
   },
   {
     "id": 80,
-    "name": "Lahori Flame",
+    "name": "Palau Kabab",
     "address": "4700 Ridgeway Dr #68",
-    "image": "images/lahoriflame.jpg",
-    "website": "http://www.lahoriflame.co/",
-    "phone": "(905) 607-0202",
-    "category": "Desi"
+    "image": "images/palauKabab.jpg",
+    "phone": "(905) 569-9833",
+    "website": "https://palaukabab.ca/",
+    "category": "Afghan"
   },
   {
     "id": 81,
-    "name": "Hotspot Cafe",
+    "name": "Karachi Hotspot",
     "address": "3525 Platinum Dr #115",
-    "image": "images/hotspot.jpg",
-    "website": "https://hotspotcafe.ca/",
+    "image": "images/KarachiHotspot.jpg",
     "phone": "(437) 564-5359",
-    "category": "Cafe"
+    "website": "https://karachihotspot.com/",
+    "category": "Desi"
   },
   {
     "id": 82,
@@ -766,12 +766,11 @@
   },
   {
     "id": 86,
-    "name": "Karachi Kitchen",
+    "name": "Farooj Abo Alabed",
     "address": "4700 Ridgeway Dr #74",
-    "image": "images/karachiKitchen.jpg",
-    "phone": "(905) 828-9884",
-    "website": "https://www.karachikitchen.com/",
-    "category": "Desi"
+    "image": "images/faroojAboAlabed.jpg",
+    "website": "https://www.faroojaboalabed.ca/",
+    "category": "Middle Eastern"
   },
   {
     "id": 87,
@@ -802,12 +801,12 @@
   },
   {
     "id": 90,
-    "name": "Monderie",
-    "address": "3450 Platinum Dr",
-    "image": "images/Monderie.jpg",
-    "phone": "(416) 904-2505",
-    "website": "https://monderiebakeshop.ca/",
-    "category": "Cafe"
+    "name": "Nora Cakes",
+    "address": "3480 Platinum Dr #97",
+    "image": "images/NoraCakes.jpg",
+    "phone": "(647) 549-8998",
+    "website": "https://noracakes.com/",
+    "category": "Dessert"
   },
   {
     "id": 91,
@@ -889,5 +888,41 @@
     "phone": "(647) 530-5440",
     "website": "https://nabluscreamery.ca/",
     "category": "Dessert"
+  },
+  {
+    "id": 100,
+    "name": "Banz Cake",
+    "address": "3480 Platinum Dr #106",
+    "image": "images/BanzCake.jpg",
+    "phone": "(905) 569-7666",
+    "website": "https://www.banzcake.ca/",
+    "category": "Dessert"
+  },
+  {
+    "id": 101,
+    "name": "Fusion Flo",
+    "address": "3525 Platinum Dr #106",
+    "image": "images/FusionFlo.jpg",
+    "phone": "(905) 607-0045",
+    "website": "https://fusionflo.ca/",
+    "category": "Fusion"
+  },
+  {
+    "id": 102,
+    "name": "BADAMI Sweets + Cuisine",
+    "address": "3525 Platinum Dr #120",
+    "image": "images/Badami.jpg",
+    "phone": "(905) 569-1133",
+    "website": "TO CONFIRM",
+    "category": "Desi"
+  },
+  {
+    "id": 103,
+    "name": "Boardwalk Burgers",
+    "address": "3525 Platinum Dr #124",
+    "image": "images/BoardwalkBurgers.jpg",
+    "phone": "(905) 608-0007",
+    "website": "https://www.boardwalkburgers.ca/",
+    "category": "American"
   }
 ]
