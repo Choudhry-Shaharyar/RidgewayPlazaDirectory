@@ -19,12 +19,12 @@
   },
   {
     "id": 3,
-    "name": "Honey Teapresso",
-    "address": "3700 Eglinton Ave W #60",
-    "image": "images/honey-teapresso.jpg",
-    "phone": "(905) 606-2200",
-    "website": "http://www.honeyteapresso.com/",
-    "category": "Cafe"
+    "name": "District Tacos",
+    "address": "3460 Platinum Dr #24",
+    "image": "images/DistrictTaco.jpg",
+    "phone": "(905) 608-0848",
+    "website": "https://www.districttacos.ca/",
+    "category": "Mexican"
   },
   {
     "id": 4,
@@ -147,19 +147,19 @@
     "id": 17,
     "name": "Cherry's Desserts",
     "address": "3525 Platinum Dr #121",
-    "image": "images/CherrysDesserts.jpg",
+    "image": "images/cherry.jpg",
     "phone": "(905) 569-6001",
     "website": "https://cherrysdesserts.ca/",
     "category": "Dessert"
   },
   {
     "id": 18,
-    "name": "District Tacos",
-    "address": "3460 Platinum Dr #24",
-    "image": "images/DistrictTacos.jpg",
-    "phone": "TO CONFIRM",
-    "website": "https://www.instagram.com/district.tacos/",
-    "category": "Mexican"
+    "name": "Honey Teapresso",
+    "address": "3700 Eglinton Ave W #60",
+    "image": "images/honeyTeaEspresso.jpg",
+    "phone": "(905) 606-2200",
+    "website": "http://www.honeyteapresso.com/",
+    "category": "Cafe"
   },
   {
     "id": 19,
