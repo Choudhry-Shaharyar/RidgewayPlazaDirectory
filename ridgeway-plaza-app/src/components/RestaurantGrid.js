@@ -77,8 +77,6 @@ function RestaurantGrid() {
     setCurrentPage(1);
   }
 
-  const hasActiveFilters = searchTerm !== '' || selectedCuisine !== '';
-
   return (
     <div className="content-container">
       <div className="search-container" id='restaurants'>
